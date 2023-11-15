@@ -1,0 +1,193 @@
+{
+    "disableMarkers": 0,
+    "disableNotifications": 0,
+    "minPlayers": 60,
+    "startMsg": "A cardrop will be deployed at ",
+    "dropMsg": "The plane droped the cargo at ",
+    "startEventOne": 99999999,
+    "startEventTwo": 99999999,
+    "startEventThree": 99999999,
+    "startEventFour": 99999999,
+    "startEventFive": 99999999,
+    "startEventSix": 99999999,
+    "startEventSeven": 99999999,
+    "startEventEight": 99999999,
+    "startEventNine": 99999999,
+    "startEventTen": 99999999,
+    "deleteTimer": 1800,
+    "fallSpeed": 10.0,
+    "spawnRadius": 50.0,
+    "zombiesNumber": 15,
+    "zombiesRadius": 50.0,
+    "zombiesList": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer"
+    ],
+    "lootNumber": 10,
+    "lootList": [
+        "CanisterGasoline",
+        "HeadlightH7_Box",
+        "HeadlightH7_Box",
+        "TireRepairKit",
+        "Wrench",
+        "LugWrench",
+        "BatteryCharger",
+        "CarBattery",
+        "TruckBattery"
+    ],
+    "spawnPositions": [
+        {
+            "locationName": "Kranostav Airfield",
+            "position": [
+                12371.0,
+                0.0,
+                12413.0
+            ]
+        },
+        {
+            "locationName": "Kranostav Airfield 2",
+            "position": [
+                12307.0,
+                0.0,
+                12445.0
+            ]
+        },
+        {
+            "locationName": "Kranostav Airfield 3",
+            "position": [
+                12249.0,
+                0.0,
+                12462.0
+            ]
+        }
+    ],
+    "vehiclesList": [
+        {
+            "name": "Offroad_02",
+            "attachments": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Trunk",
+                "Offroad_02_Hood",
+                "Offroad_02_Door_1_1",
+                "Offroad_02_Door_1_2",
+                "Offroad_02_Door_2_1",
+                "Offroad_02_Door_2_2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "GlowPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "OffroadHatchback",
+            "attachments": [
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackTrunk",
+                "HatchbackHood",
+                "HatchbackDoors_Driver",
+                "HatchbackDoors_CoDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "CivilianSedan",
+            "attachments": [
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanTrunk",
+                "CivSedanHood",
+                "CivSedanDoors_Driver",
+                "CivSedanDoors_CoDriver",
+                "CivSedanDoors_BackLeft",
+                "CivSedanDoors_BackRight",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "Hatchback_02",
+            "attachments": [
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Hood",
+                "Hatchback_02_Trunk",
+                "Hatchback_02_Door_1_1",
+                "Hatchback_02_Door_1_2",
+                "Hatchback_02_Door_2_1",
+                "Hatchback_02_Door_2_2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "Sedan_02",
+            "attachments": [
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Hood",
+                "Sedan_02_Trunk",
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_2_2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "Truck_01_Covered",
+            "attachments": [
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_Hood",
+                "Truck_01_Door_1_1",
+                "Truck_01_Door_2_1",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator"
+            ]
+        }
+    ],
+    "g_CardropCount": 1
+}

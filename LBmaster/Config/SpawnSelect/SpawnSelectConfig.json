@@ -1,0 +1,253 @@
+{
+    "version": 16,
+    "spawn_clear_radius": 20.0,
+    "spawnPos": [
+        3518.819580078125,
+        5.340324401855469,
+        15926.03125
+    ],
+    "random_spawn_cost_money": 0,
+    "random_ignore_timeouts": 1,
+    "force_exact_spawn_pos": 0,
+    "overwrite_default_spawnPos": 1,
+    "openSpawnMenuOnce": 1,
+    "forceOpenSpawnMenu": 1,
+    "hide_when_no_spawns_found": 1,
+    "show_cost_in_spawnmenu": 1,
+    "show_remaining_bag_uses_in_spawnmenu": 1,
+    "overwrite_stats_on_spawn": 0,
+    "water_on_spawn": 600,
+    "food_on_spawn": 600,
+    "health_on_spawn": 100,
+    "blood_on_spawn": 5000,
+    "death_spawn_block_radius": 1500,
+    "death_spawn_block_timeout": 1800,
+    "respawnOpenedMenuSpawnpoints": {
+        "disableRandomSpawn": 0,
+        "sleepingBags": 1,
+        "allSpawnPoints": 1,
+        "spawnPointsList": []
+    },
+    "signs": [
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 0,
+            "allSpawnPoints": 0,
+            "spawnPointsList": [
+                "Green Mountain",
+                "Klen"
+            ],
+            "itemname": "LBmaster_SpawnSign_Safezone",
+            "requiredSpawnTicket": "LBmaster_SpawnTicket_1",
+            "actionText": "Teleport to Safezone"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 0,
+            "spawnPointsList": [
+                "Chernogorsk",
+                "Elektrozavodsk",
+                "Spawn",
+                "Balota",
+                "Berezino",
+                "Solnechny"
+            ],
+            "itemname": "LBmaster_SpawnSign_Spawn",
+            "requiredSpawnTicket": "",
+            "actionText": "Spawn"
+        }
+    ],
+    "positions": [
+        {
+            "pos": [
+                10351.498046875,
+                0.0,
+                5579.2509765625
+            ],
+            "name": "Fishers Camp",
+            "spawnCost": 0,
+            "timeout": 0,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    10374.697265625,
+                    2.189697742462158,
+                    5589.9716796875
+                ],
+                [
+                    10313.2578125,
+                    5.565968990325928,
+                    5554.7060546875
+                ],
+                [
+                    10344.115234375,
+                    2.8168039321899416,
+                    5573.7158203125
+                ],
+                [
+                    10325.10546875,
+                    2.99841046333313,
+                    5575.0927734375
+                ],
+                [
+                    10362.3466796875,
+                    2.113476514816284,
+                    5583.142578125
+                ]
+            ]
+        },
+        {
+            "pos": [
+                10450.123046875,
+                24.860000610351564,
+                7847.9951171875
+            ],
+            "name": "Eastbrook",
+            "spawnCost": 0,
+            "timeout": 0,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    10186.265625,
+                    4.396131992340088,
+                    7693.7421875
+                ],
+                [
+                    10377.904296875,
+                    24.803804397583009,
+                    7698.6376953125
+                ],
+                [
+                    10416.3720703125,
+                    24.860000610351564,
+                    7769.9775390625
+                ],
+                [
+                    10477.9189453125,
+                    24.860000610351564,
+                    7783.9658203125
+                ],
+                [
+                    10504.4970703125,
+                    24.871978759765626,
+                    7844.814453125
+                ],
+                [
+                    10282.083984375,
+                    21.926551818847658,
+                    7759.4873046875
+                ]
+            ]
+        },
+        {
+            "pos": [
+                4757.21337890625,
+                8.270000457763672,
+                1530.94140625
+            ],
+            "name": "Greenville",
+            "spawnCost": 0,
+            "timeout": 0,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    4703.8876953125,
+                    8.336967468261719,
+                    1438.2470703125
+                ],
+                [
+                    4833.15771484375,
+                    8.270000457763672,
+                    1555.5791015625
+                ],
+                [
+                    4748.91015625,
+                    8.270000457763672,
+                    1532.7265625
+                ],
+                [
+                    4813.375,
+                    8.270000457763672,
+                    1479.5166015625
+                ],
+                [
+                    4743.453125,
+                    8.270000457763672,
+                    1479.5166015625
+                ]
+            ]
+        },
+        {
+            "pos": [
+                6175.28466796875,
+                26.385963439941408,
+                13985.9013671875
+            ],
+            "name": "Portland",
+            "spawnCost": 0,
+            "timeout": 0,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    5931.50390625,
+                    20.530033111572267,
+                    13592.24609375
+                ],
+                [
+                    6120.79345703125,
+                    19.70317268371582,
+                    13621.291015625
+                ],
+                [
+                    6244.9833984375,
+                    19.712512969970704,
+                    13638.31640625
+                ],
+                [
+                    6524.41064453125,
+                    19.47901153564453,
+                    13639.318359375
+                ],
+                [
+                    6980.3486328125,
+                    19.47901153564453,
+                    13810.9482421875
+                ]
+            ]
+        }
+    ]
+}

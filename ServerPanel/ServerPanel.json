@@ -1,0 +1,53 @@
+{
+    "SERVERNAME": "Welcome Dark Phoenix Deer Isle",
+    "BUTTON1NAME": "DISCORD",
+    "BUTTON1LINK": "https://discord.gg/rFN9UfVzgQ",
+    "BUTTON2NAME": "WEBSITE",
+    "BUTTON2LINK": "https://dark-phoenix-dayz.freeforums.net/board/1/general-discussion",
+    "BUTTON3NAME": "DONATE",
+    "BUTTON3LINK": "https://www.paypal.me/RoyJ88",
+    "BUTTONTAB0NAME": "Server Rules",
+    "BUTTONTAB1NAME": "Base Building Rules",
+    "BUTTONTAB2NAME": "Raid Rules",
+    "BUTTONTAB3NAME": "Thank you",
+    "DISPLAYPLAYERINFO": 1,
+    "DISPLAYPLAYERTAB": 1,
+    "sServerTab0": [
+        "- The map is now PVE with PVP Zones Second and Fourth Saturday of the month it will be base raiding. this includes SATURDAY from 11am CST until SUNDAY at 8pm CST",
+        "- Record your Sessions this is for your protection",
+        "- Cars will DESPAWN after 6 HOURS Use the Garage",
+        "- NO CAMPING ANY TRADERS AT ALL",
+        "- NO COMBAT LOGGING admins may kill you if caught",
+        "- NO Basing in Police or Fire Stations or Hospitals",
+        "- NO TICKETS FOR STUCK CARS, PUSH-WRENCH-HYDRAULIC JACK-Trader Plus Wrench",
+        "- NO Stealing in Safezone",
+        "- NO Racism or Homophobic Slurs be RESPECTFUL",
+        "- NO Cheating or hacking or threats of DDOS",
+        "- NO BASING IN STRONG ROOMS"
+    ],
+    "sServerTab1": [
+        "- ALL BASES must have a Territory Base Flag. To place territory flag you have to have a group created",
+        "- To place a Flag you must first create a group",
+        "- DO NOT BLOCK ROADS OR BRIDGES",
+        "- BASE SIZE IS NO MORE THEN 5X5X4 OR 100 Tiles",
+        "- Must have a raidable entrance from the GROUND",
+        "- No putting Locks on a base that is not yours",
+        "- NO SKYBASES FLOATING BASES OR WATER BASES"
+    ],
+    "sServerTab2": [
+        "- You are only allowed 20 locked doors/ gates/ hatches",
+        "- You may have as many locked containers as you wish try to keep hoarding to a minimum as it does affect server performance",
+        "- Your base must be raidable at all times",
+        "- NO MORE THEN 11 PLAYERS IN A RAID PARTY AT ALL",
+        "- Only use raid tools designated by server owner or admin",
+        "- YOU MAY RAID WITH OTHER GROUPS BUT IF YOU GET BETRAYED AND KILLED IN THE PROCESS THIS IS ON YOU. MAKE BETTER DECISIONS",
+        "- IF YOU CAN GET IN WITHOUT EXPLOSIVES YOU CAN RAID ALL THE TIME THIS IS KNOWN AS SOFT RAIDING LEARN TO BUILD OR LOSE IT ALL",
+        "- Exposed tents and storage etc, outside of a defined base are raidable at all times",
+        "- You may not destroy your loot in order to prevent a raider from obtaining it",
+        "- No logging in another player’s base whilst raiding",
+        "- No base take overs unless that base has been deemed abandoned by Staff"
+    ],
+    "sServerTab3": [
+        "Thank you all for choosing to play here It means a lot"
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "loglevel": 100,
+    "BubakLocations": [
+        {
+            "name": "Red Vault Boss Battle",
+            "workinghours": "0-24",
+            "triggerpos": "8709.07 29.3504 9757.49",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 0.0,
+            "notification": "Let The Fight Begin",
+            "notificationtime": 2,
+            "triggerdelay": 30,
+            "spawnerpos": [
+                "8720.43 13.5763 9741.62"
+            ],
+            "spawnradius": 20.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 1,
+            "bubaci": [
+                "PITSTOP_Monsters_FireDemon",
+                "PITSTOP_Monsters_Syther",
+                "PITSTOP_Monsters_Wendigo",
+                "PITSTOP_Monsters_Gargoyvile_3",
+                "PITSTOP_Monsters_Wendigo_Hairy"
+            ]
+        },
+        {
+            "name": "Oil Rig Deepwater",
+            "workinghours": "0-24",
+            "triggerpos": "1705.99 32 12714.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 0.0,
+            "notification": "Deepwater Contamination Zone",
+            "notificationtime": 30,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "1705.99 32 12714.3"
+            ],
+            "spawnradius": 50.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 1,
+            "bubaci": [
+                "PITSTOP_Monsters_Gargoyvile_1",
+                "PITSTOP_Monsters_Gargoyvile_2",
+                "PITSTOP_Monsters_Gharlog",
+                "PITSTOP_Monsters_Gorgund",
+                "PITSTOP_Monsters_Lechen",
+                "PITSTOP_Monsters_Lechen_Hairy",
+                "PITSTOP_Monsters_Wearbear_Brown",
+                "PITSTOP_Monsters_Wearbear_Brown2",
+                "PITSTOP_Monsters_Wendigo",
+                "PITSTOP_Monsters_Wendigo_Hairy",
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark"
+            ]
+        },
+        {
+            "name": "Oil Rig Rogue wave",
+            "workinghours": "0-24",
+            "triggerpos": "2154.83 28.5 14619",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 0.0,
+            "notification": "Rogue Wave Contamination Zone",
+            "notificationtime": 30,
+            "triggerdelay": 60,
+            "spawnerpos": [
+                "2154.83 28.5 14619"
+            ],
+            "spawnradius": 10.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 1,
+            "bubaci": [
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark",
+                "Pitstop_Monsters_Werewolf_Black"
+            ]
+        },
+        {
+            "name": "Oil Rig Horizon",
+            "workinghours": "0-24",
+            "triggerpos": "4175.07 24.8 15459.8",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 60.0,
+            "triggercylradius": 40.0,
+            "triggercylheight": 0.0,
+            "notification": "Horizon Contamination Zone",
+            "notificationtime": 30,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "4175.07 24.8 15459.8",
+                "4154.79 24.77 15430.9"
+            ],
+            "spawnradius": 40.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 1,
+            "bubaci": [
+                "PITSTOP_Monsters_Gargoyvile_1",
+                "PITSTOP_Monsters_Gargoyvile_2",
+                "PITSTOP_Monsters_Gharlog",
+                "PITSTOP_Monsters_Gorgund",
+                "PITSTOP_Monsters_Lechen",
+                "PITSTOP_Monsters_Lechen_Hairy",
+                "PITSTOP_Monsters_Wearbear_Brown",
+                "PITSTOP_Monsters_Wearbear_Brown2",
+                "PITSTOP_Monsters_Wendigo",
+                "PITSTOP_Monsters_Wendigo_Hairy",
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark"
+            ]
+        },
+        {
+            "name": "Oil Rig Horizon Carrier",
+            "workinghours": "0-24",
+            "triggerpos": "4046.28 7.646 15411.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 0.0,
+            "notification": "Horizon Carrier Contamination Zone",
+            "notificationtime": 30,
+            "triggerdelay": 120,
+            "spawnerpos": [
+                "4082.68 7.7 15414.8"
+            ],
+            "spawnradius": 10.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 1,
+            "bubaci": [
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark",
+                "Pitstop_Monsters_Werewolf_Black"
+            ]
+        },
+        {
+            "name": "KMUC Vault",
+            "workinghours": "0-24",
+            "triggerpos": "7047.61 573.372 11613.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "You have unleashed the test subjects prepare yourself",
+            "notificationtime": 210,
+            "triggerdelay": 240,
+            "spawnerpos": [
+                "7059.66 573.6 11619.8"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 0,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": []
+        },
+        {
+            "name": "",
+            "workinghours": "0-24",
+            "triggerpos": "",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 0,
+            "spawnerpos": [],
+            "spawnradius": 6.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark",
+                "Pitstop_Monsters_Werewolf_Black",
+                "PITSTOP_Monsters_Gargoyvile_1",
+                "PITSTOP_Monsters_Gargoyvile_2",
+                "PITSTOP_Monsters_Gharlog",
+                "PITSTOP_Monsters_Gorgund",
+                "PITSTOP_Monsters_Lechen",
+                "PITSTOP_Monsters_Lechen_Hairy",
+                "PITSTOP_Monsters_Wearbear_Brown",
+                "PITSTOP_Monsters_Wearbear_Brown2",
+                "PITSTOP_Monsters_Wendigo",
+                "PITSTOP_Monsters_Wendigo_Hairy",
+                "PITSTOP_Monsters_Yeti_Light",
+                "PITSTOP_Monsters_Yeti_Dark"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "OF_ET_b3CA8Z6sG97V9-KetzUHkw8Bv3IK-keUG9fBk=",
+        "Recent_Character_Names": [
+            "iLunchbox"
+        ],
+        "Murder_Count": 18,
+        "Latest_Murder_Time": {
+            "Year": 2023,
+            "Month": 11,
+            "Day": 10,
+            "Hour": 10,
+            "Minute": 15
+        },
+        "Is_Currently_Outlaw": 0
+    },
+    {
+        "Id": "Y6RUbn_cxRSMMjPsBKCGbu_6uT7il-VkjGM54FERmhQ=",
+        "Recent_Character_Names": [
+            "????"
+        ],
+        "Murder_Count": 7,
+        "Latest_Murder_Time": {
+            "Year": 2023,
+            "Month": 10,
+            "Day": 30,
+            "Hour": 3,
+            "Minute": 0
+        },
+        "Is_Currently_Outlaw": 1
+    }
+]

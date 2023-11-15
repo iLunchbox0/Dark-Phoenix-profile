@@ -1,0 +1,153 @@
+{
+    "disableMarkers": 0,
+    "disableNotifications": 0,
+    "minPlayers": 5,
+    "missionAvailableMsg": "Mission available near your location",
+    "startMissionMsg": "Unlock the safe by defeating every incoming horde",
+    "startEvent1": 300,
+    "startEvent2": 3600,
+    "startEvent3": 7200,
+    "startEvent4": 99999999,
+    "startEvent5": 99999999,
+    "startEvent6": 99999999,
+    "startEvent7": 99999999,
+    "startEvent8": 99999999,
+    "startEvent9": 99999999,
+    "startEvent10": 99999999,
+    "expireMissionAfter": 1800,
+    "deleteTimer": 3000,
+    "deleteSafeAfterOpen": 600,
+    "spawnPositions": [
+        {
+            "position": [
+                8759.917969,
+                12.712501,
+                6038.127441
+            ],
+            "orientation": [
+                161.475342,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                8852.145508,
+                45.488571,
+                3757.494873
+            ],
+            "orientation": [
+                -179.884094,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                5607.118164,
+                73.999985,
+                3740.051514
+            ],
+            "orientation": [
+                136.032303,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                2817.114502,
+                22.462496,
+                4078.349854
+            ],
+            "orientation": [
+                -34.751850,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                11409.331055,
+                14.887420,
+                10343.337891
+            ],
+            "orientation": [
+                -16.363598,
+                0.0,
+                0.0
+            ]
+        },
+                {
+            "position": [
+                3561.860107,
+                11.832658,
+                8867.730469
+            ],
+            "orientation": [
+                163.240753,
+                0.0,
+                0.0
+            ]
+        },
+                {
+            "position": [
+                5695.144043,
+                108.668808,
+                2398.136230
+            ],
+            "orientation": [
+                -2.542110,
+                0.0,
+                0.0
+            ]
+        },
+                {
+            "position": [
+                4540.336914,
+                20.387600,
+                7174.149902
+            ],
+            "orientation": [
+                -38.029987,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "zombiesNumberEachWave": 20,
+    "missionRadius": 40.0,
+    "zombieRadius": 15.0,
+    "zombiesList": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_PolicemanFat",
+        "ZmbM_PolicemanSpecForce",
+        "ZmbM_Mummy",
+        "ZmbM_PolicemanSpecForce_Heavy"
+    ],
+    "mission1Waves": 4,
+    "mission1LootNumber": 3,
+    "mission1LootList": [
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy",
+        "DP_Hacksaw"
+    ],
+    "mission2Waves": 8,
+    "mission2LootNumber": 5,
+    "mission2LootList": [
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy",
+        "DP_Hacksaw"
+    ],
+    "mission3Waves": 12,
+    "mission3LootNumber": 6,
+    "mission3LootList": [
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy",
+        "DP_Hacksaw"
+    ],
+    "g_SecureCount": 1
+}

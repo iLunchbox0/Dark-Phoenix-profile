@@ -1,0 +1,15 @@
+{
+    "version": 0,
+    "enableSecureMarkers": 1,
+    "updatePositionWhenDropped": 1,
+    "markerForRandomSecure": 1,
+    "markerForPlayerCalledSecure": 1,
+    "nameBeforeDrop": "Secure",
+    "nameAfterDrop": "Secure",
+    "SecureMarker": "Secure the zone",
+    "iconSecure": "HM_Secure/Data/Gui/Images/secure.paa",
+    "markerColorA": 255,
+    "markerColorR": 255,
+    "markerColorG": 0,
+    "markerColorB": 0
+}

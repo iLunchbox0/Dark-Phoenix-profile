@@ -1,0 +1,53 @@
+{
+    "version": 7,
+    "bedConfigs": [
+        {
+            "name": "Sleeping Bag",
+            "itemnames": [
+                "LBS_SleepingBag_Base"
+            ],
+            "timeoutSeconds": 120,
+            "timeoutPlacedDown": 300,
+            "killedTimeoutRadius": 0.0,
+            "itemLimit": 2,
+            "spawnCost": 5000,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 50.0,
+            "maxBagUses": 5,
+            "uncaimOldestBagIfLimitReached": 1,
+            "nearPlacementCheckActive": 0,
+            "requireItemNearToAllowSpawn": 0,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ]
+        },
+        {
+            "name": "Old Sleeping Bag",
+            "itemnames": [
+                "LBS_SleepingBag_Old_Base"
+            ],
+            "timeoutSeconds": 0,
+            "timeoutPlacedDown": 300,
+            "killedTimeoutRadius": 0.0,
+            "itemLimit": 2,
+            "spawnCost": 0,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 0.0,
+            "maxBagUses": -1,
+            "uncaimOldestBagIfLimitReached": 1,
+            "nearPlacementCheckActive": 1,
+            "requireItemNearToAllowSpawn": 0,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ]
+        }
+    ]
+}

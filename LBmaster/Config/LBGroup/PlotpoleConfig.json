@@ -1,0 +1,45 @@
+{
+    "version": 8,
+    "enablePlotpoleExtension": 1,
+    "syncPlotpolesToCFCloud": 1,
+    "doObjectLifetimeReset": 1,
+    "enableLifetimeResetWorkaround": 1,
+    "flagLifetimeRefreshTime": 7200,
+    "flagUptimeDuration": 3456000,
+    "preventUnauthorizedDeploying": 1,
+    "deployInOthersTerritoryExceptions": [
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy",
+        "HDSN_C4Stick",
+        "HDSN_C4StickWithDuctTape"
+    ],
+    "forceDeployingInTerritory": 1,
+    "forceExceptions": [
+        "Barrel_ColorBase",
+        "TentBase",
+		"FirePlace",
+		"LBS_SleepingPacked_New_Camo",
+		"LBS_SleepingPacked_New_Blue"
+    ],
+    "preventUnauthorizedBuilding": 1,
+    "preventUnauthorizedDismantling": 1,
+    "preventUnauthorizedDestroying": 1,
+    "remainingFlagLifetimeWhenGroupDeleted": 900,
+    "instantBuildPlotpole": 1,
+    "autoAttachFlag": 1,
+    "autoRaiseFlag": 1,
+    "autoFlagAttachedItemnames": [
+        "Flag_Cannibals"
+    ],
+    "displayPlotpolesOnMap": 1,
+    "allowOthersPlotpoleDestroy": 0,
+    "allowOthersPlotpoleLowerFlag": 0,
+    "allowDismantleInUnclaimedTeritorry": 1,
+    "allowDestroyInUnclaimedTeritorry": 1,
+    "plotpoleRadius": 60.0,
+    "plotpoleHeightUp": 30.0,
+    "plotpoleHeightDown": 30.0,
+    "plotpoleDistanceMinHostile": 200.0,
+    "plotpoleDistanceMinFriendly": 100.0,
+    "defaultPlotpoleCountPerGroup": 1
+}

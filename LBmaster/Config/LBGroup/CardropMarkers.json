@@ -1,0 +1,15 @@
+{
+    "version": 0,
+    "enableCardropMarkers": 1,
+    "updatePositionWhenDropped": 1,
+    "markerForRandomCardrop": 1,
+    "markerForPlayerCalledCardrop": 1,
+    "nameBeforeDrop": "Cardrop",
+    "nameAfterDrop": "Cardrop",
+    "CardropMarker": "Cardrop",
+    "iconCardrop": "HM_Cardrop/Data/Gui/Images/car.paa",
+    "markerColorA": 255,
+    "markerColorR": 255,
+    "markerColorG": 0,
+    "markerColorB": 0
+}

@@ -1,0 +1,7 @@
+{
+    "coinCreationInterval": 30,
+    "coin": [
+        "HM_Plus_Bitcoin"
+    ],
+    "gpuDamage": 100
+}

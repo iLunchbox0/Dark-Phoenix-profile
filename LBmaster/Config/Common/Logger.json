@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "logLevel": 6,
+    "logFullTimestamp": 1,
+    "logFolder": "$profile:",
+    "logToScriptlog": 0
+}

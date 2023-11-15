@@ -1,0 +1,55 @@
+{
+    "version": 3,
+    "leaderboardHostname": "https://lennardboetcher.de:2118/leaderboard",
+    "server_api_id": "8f3caddb-8e48-46b1-b9ab-97f81b498a01",
+    "serverName": "Paguco",
+    "discordInviteLink": "https://discord.gg/rFN9UfVzgQ",
+    "logoBannerPath": "",
+    "headerBarColor": {
+        "a": 255,
+        "r": 88,
+        "g": 26,
+        "b": 123
+    },
+    "headerBarTextColor": {
+        "a": 255,
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "sortByStat": "kills",
+    "moreIsBetter": 1,
+    "excludedAdminCFIds": [],
+    "stats": [
+        {
+            "displayname": "Rank",
+            "widthPercent": 0.10000000149011612,
+            "jsonDataName": "rank"
+        },
+        {
+            "displayname": "Playername",
+            "widthPercent": 0.30000001192092898,
+            "jsonDataName": "latest_name"
+        },
+        {
+            "displayname": "Kills",
+            "widthPercent": 0.15000000596046449,
+            "jsonDataName": "kills"
+        },
+        {
+            "displayname": "Deaths",
+            "widthPercent": 0.15000000596046449,
+            "jsonDataName": "deaths"
+        },
+        {
+            "displayname": "KD",
+            "widthPercent": 0.15000000596046449,
+            "jsonDataName": "kdratio"
+        },
+        {
+            "displayname": "Longest Kill",
+            "widthPercent": 0.15000000596046449,
+            "jsonDataName": "longest_kill"
+        }
+    ]
+}

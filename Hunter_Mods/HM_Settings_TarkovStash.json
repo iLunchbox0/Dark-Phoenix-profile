@@ -1,0 +1,69 @@
+{
+    "spawnPositions": [
+        [
+            6917.77,
+            25.5225,
+            14140.7
+        ],
+        [
+            5707.37,
+            5.15719,
+            9237.02
+        ],
+        [
+            3344.49,
+            20.8457,
+            6438.55
+        ],
+        [
+            2994.63,
+            24.6008,
+            3621.09
+        ],
+        [
+            6655.274902,
+            28.444641,
+            3455.730713
+        ],
+        [
+            8947.49,
+            66.4464,
+            3983.63
+        ],
+        [
+            13482.1,
+            17.0398,
+            9797.26
+        ],
+        [
+            7265.957031,
+            604.048035,
+            11796.2999805
+        ],
+        [
+            3672.78,
+            11.3959,
+            8675.77
+        ],
+        [
+            4954.3,
+            11.6059,
+            7224.16
+        ]
+    ],
+    "spawnChance": 1.0,
+    "lootNumber": 3,
+    "lootList": [
+        "NBCGlovesGray",
+        "NBCGlovesYellow",
+        "NBCHoodGray",
+        "NBCHoodYellow",
+        "NBCPantsGray",
+        "NBCPantsYellow",
+        "NBCBootsGray",
+        "NBCBootsYellow",
+        "NBCJacketGray",
+        "NBCJacketYellow",
+        "GP5GasMask"
+    ]
+}

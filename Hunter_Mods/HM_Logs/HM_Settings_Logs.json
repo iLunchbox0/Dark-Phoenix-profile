@@ -1,0 +1,21 @@
+{
+    "discordPlayerConnectionWebhook": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+    "discordPlayerKillFeedWebhook": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+    "serverStartWebhook": "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_LINK_HERE",
+    "actionsBlackList": [
+        "ActionTakeItem",
+        "ActionDropItem",
+        "ActionDropItemSimple",
+        "ActionTakeItemToHands",
+        "ActionOpenCarDoorsOutside",
+        "ActionGetInTransport",
+        "ActionStartEngine",
+        "ActionCloseCarDoors",
+        "ActionOpenCarDoors",
+        "ActionGetOutTransport",
+        "FirearmActionMechanicManipulate",
+        "FirearmActionAttachMagazineQuick",
+        "ActionTurnOnWeaponFlashlight",
+        "ActionToggleNVG"
+    ]
+}

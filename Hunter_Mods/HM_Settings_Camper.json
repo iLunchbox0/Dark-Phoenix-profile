@@ -1,0 +1,34 @@
+{
+    "disableMarkers": 1,
+    "disableNotifications": 1,
+    "minPlayers": 1,
+    "spawnMsg": "An abandoned camper has been found near.",
+    "deleteMsg": "An abandoned camper near you has been destroyed.",
+    "zombiesList": [
+        "ZmbM_CitizenASkinny_Blue",
+        "ZmbM_ClerkFat_Khaki",
+        "ZmbM_ConstrWorkerNormal_Beige",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FirefighterNormal",
+        "ZmbM_HandymanNormal_Grey",
+        "ZmbM_Mummy"
+    ],
+    "zombiesRadius": 50.0,
+    "zombiesNumber": 25,
+    "lootList": [
+        "Matchbox",
+        "LBS_SleepingPacked_New_Camo",
+        "MediumTent_Orange",
+        "rag_baseitems_barrel_furnace_kit",
+        "rag_baseitems_gascanister",
+        "DNA_KeyCard_Green_Inactive",
+        "LargeTent",
+        "LBS_SleepingPacked_Old_LightPurple",
+        "DNA_KeyCard_Purple_Inactive",
+        "CarTent",
+        "DNA_KeyCard_Red_Inactive"
+    ],
+    "lootNumber": 2,
+    "eventTimer": 1800,
+    "g_CamperCount": 1
+}

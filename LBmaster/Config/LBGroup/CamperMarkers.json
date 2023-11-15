@@ -1,0 +1,15 @@
+{
+    "version": 0,
+    "enableCamperMarkers": 1,
+    "updatePositionWhenDropped": 1,
+    "markerForRandomCamper": 1,
+    "markerForPlayerCalledCamper": 1,
+    "nameBeforeDrop": "Camper",
+    "nameAfterDrop": "Camper",
+    "CamperMarker": "Camper",
+    "iconcamper": "HM_Camper/Data/Gui/Images/camper.paa",
+    "markerColorA": 255,
+    "markerColorR": 255,
+    "markerColorG": 0,
+    "markerColorB": 0
+}
