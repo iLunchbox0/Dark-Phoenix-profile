@@ -1,0 +1,638 @@
+﻿20:25:46 BattlEye Server: Initialized (v1.219, DayZ 1.23.156951)
+20:25:46 SUCCESS: SteamGameServer_Init(0,8766,2402,27017,3,1.23.156951)
+20:25:46 BattlEye Server: Config entry: RConPassword 82c46b3c446574065cfb43aa4ca6c710
+20:25:46 BattlEye Server: Config entry: RConPort 2405
+20:25:46 BattlEye Server: Config entry: RestrictRCon 0
+20:25:46 Roles assigned.
+20:25:46 Reading mission ...
+20:26:14 [CE][Hive] :: Initializing OFFLINE
+20:26:14 [StorageDirs] :: Selected storage directory: C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\
+20:26:14 [CE][Hive] :: Loading core data ... 
+20:26:14 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+20:26:47 [CE][TypeSetup] :: 546 classes setuped...
+20:26:47 [CE][TypeSetup] :: 97 classes setuped...
+20:26:47 [CE][TypeSetup] :: 81 classes setuped...
+20:26:47 [CE][TypeSetup] :: 16 classes setuped...
+20:26:57 [CE][RegisterBind] :: 0 classes binded...
+20:26:57 [CE][RegisterConfig] :: 28031 config classes registered, 0 sub-counters...
+20:26:57 [CE][Hive] :: Loading map data ... 
+20:26:57 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 27 types
+20:26:57 !!! [CE] :: Ignoring duplicate usage named bit 'Lunapark'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:26:57 !!! [CE] :: Unknown usage: 'Fortknox'.
+20:26:57 !!! [CE] :: Unknown usage: 'Mine'.
+20:26:57 !!! [CE] :: Unknown usage: 'Mine'.
+20:26:57 !!! [CE] :: Unknown usage: 'Temple'.
+20:26:57 [CE][LoadPrototype] :: loaded 550 prototypes
+20:26:57   989 containers, 11581 points
+20:26:57   79 dispatches, 316 proxies
+20:26:57 !!! [CE][LoadPrototype] 4 groups have no points...
+20:26:57 !!! [CE][LoadPrototype] 2 groups have wrong points...
+20:26:57 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+20:26:57 [CE][LoadPrototype] :: last group name: Land_Underground_Storage_Workshop...
+20:26:57 [CE][LoadPrototype] :: loaded 0 prototypes
+20:26:57   55 containers, 232 points
+20:26:57   0 dispatches, 0 proxies
+20:26:57 [CE][LoadPrototype] :: last group name: Rail9...
+20:26:57 [CE][LoadMap] "Group" :: loaded 10431 groups, groups failed: 0, largest group range: 34.1
+20:26:57 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.1
+20:26:58 [CE][LoadClusters] "Cluster" :: Loading files...
+20:26:58 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+20:26:58 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+20:26:58 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+20:26:58   9793 failed - check prototype defaults 'clusterMatrix' setups !!!
+20:26:58 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+20:26:58   6758 failed - check prototype defaults 'clusterMatrix' setups !!!
+20:26:58 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 24052 instances
+20:26:58   2081 failed - check prototype defaults 'clusterMatrix' setups !!!
+20:26:58 [CE][Storage] ver:21 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\types.bin"
+20:26:58 [CE][Storage] ver:21 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\types.001"
+20:26:58 [CE][Storage] ver:21 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\types.002"
+20:26:58 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\types.001".
+20:27:00 !!! [CE][offlineDB] :: No Shutdown message present.
+20:27:00 [CE][offlineDB] :: Loaded 50 dynamic events 327 total types.
+20:27:00 !!! [CE][offlineDB] :: Type 'Ammo_FlareBlue' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Ammo_FlareGreen' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Ammo_FlareRed' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BearPelt' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'SantasSleigh' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+20:27:00 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'ttcelticaxe' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'tantosword' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'BBP_Step_LadderKit' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_AdidasYeezySlides_core' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_PampaBoots_anthrcite' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_DrippyPoo' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_AdidasYeezySlides_core' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_SneakerMysteryBox_common' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'Drip_SneakerMysteryBox_premium' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_interior_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_rearseats_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_skids_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_DriverDoor_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_CodriverDoor_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo1_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo2_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo3_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo4_Narcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Narcos_Wreck' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_DP_BloodIce' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_Cargo1_DP_BloodIce' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_Cargo2_DP_BloodIce' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_DP_BloodIce_Wreck' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_DP_RadarPred' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_Cargo1_DP_RadarPred' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_Cargo2_DP_RadarPred' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_CH47_DP_RadarPred_Wreck' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_interior_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_rearseats_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_skids_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_DriverDoor_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_CodriverDoor_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo1_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo2_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo3_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_Cargo4_DigitalBlackNarcos' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'RFFSHeli_Bell429_DigitalBlackNarcos_Wreck' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_Twister' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_Twister_clear' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_AmberDrake' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_AmberDrake_clear' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_Radar' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'HeliSIB_UH1D_Radar_clear' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'UAZ_3909_medic' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][offlineDB] :: Type 'DP_SubaruImprezaWRXF4_Grey' will be ignored. (Type does not exist. (Typo?))
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalFacehugger'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCrocodile'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+20:27:00 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+20:27:00 [CE][DE][SPAWNS] :: Total positions: 532
+20:27:00 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+20:27:00 [CE][Storage] ver:21 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\events.bin"
+20:27:00 [CE][Storage] ver:21 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\events.001"
+20:27:00 [CE][Storage] ver:21 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\events.002"
+20:27:00 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\events.001".
+20:27:00 [CE][DynamicEvent] Load  Events:[50] Primary spawners: 50 Secondary spawners: 2
+20:27:00 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_000.bin"
+20:27:00 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001"
+20:27:00 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_000.002"
+20:27:00 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_000.001" 1098 items.
+20:27:02   1098 items loaded. (0 failed)
+20:27:02 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_001.bin"
+20:27:02 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001"
+20:27:02 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_001.002"
+20:27:02 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_001.001" 792 items.
+20:27:02   792 items loaded. (0 failed)
+20:27:02 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_002.bin"
+20:27:02 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001"
+20:27:02 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_002.002"
+20:27:02 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_002.001" 1054 items.
+20:27:03   1054 items loaded. (0 failed)
+20:27:03 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_003.bin"
+20:27:03 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001"
+20:27:03 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_003.002"
+20:27:03 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_003.001" 1382 items.
+20:27:03   1382 items loaded. (0 failed)
+20:27:03 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_004.bin"
+20:27:03 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001"
+20:27:03 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_004.002"
+20:27:03 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_004.001" 2083 items.
+20:27:04   2083 items loaded. (0 failed)
+20:27:04 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_005.bin"
+20:27:04 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001"
+20:27:04 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_005.002"
+20:27:04 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_005.001" 1862 items.
+20:27:05   1862 items loaded. (0 failed)
+20:27:05 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_006.bin"
+20:27:05 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001"
+20:27:05 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_006.002"
+20:27:05 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_006.001" 1668 items.
+20:27:06   1668 items loaded. (0 failed)
+20:27:06 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_007.bin"
+20:27:06 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001"
+20:27:06 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_007.002"
+20:27:06 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_007.001" 1417 items.
+20:27:06   1417 items loaded. (0 failed)
+20:27:06 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_008.bin"
+20:27:06 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001"
+20:27:06 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_008.002"
+20:27:06 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_008.001" 489 items.
+20:27:07   489 items loaded. (0 failed)
+20:27:07 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_009.bin"
+20:27:07 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001"
+20:27:07 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_009.002"
+20:27:07 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_009.001" 579 items.
+20:27:07   579 items loaded. (0 failed)
+20:27:07 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_010.bin"
+20:27:07 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001"
+20:27:07 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_010.002"
+20:27:07 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_010.001" 442 items.
+20:27:07   442 items loaded. (0 failed)
+20:27:07 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_011.bin"
+20:27:07 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001"
+20:27:07 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_011.002"
+20:27:07 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\dynamic_011.001" 216 items.
+20:27:08   216 items loaded. (0 failed)
+20:27:08 [CE][Storage] ver:26 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\building.bin"
+20:27:08 [CE][Storage] ver:26 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\building.001"
+20:27:08 [CE][Storage] ver:26 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\building.002"
+20:27:08 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\building.001" 0 items.
+20:27:08   0 items loaded. (0 failed)
+20:27:08 [CE][Storage] ver:25 stamp:2361, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\vehicles.bin"
+20:27:08 [CE][Storage] ver:25 stamp:2362, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\vehicles.001"
+20:27:08 [CE][Storage] ver:25 stamp:2360, valid:yes, name:"C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\vehicles.002"
+20:27:08 [CE][Storage] Restoring file "C:\Users\Administrator\Desktop\Dayz Servers\servers\1\mpmissions\empty.deerisle\storage_1\data\vehicles.001" 40 items.
+20:27:08   40 items loaded. (0 failed)
+20:27:08 [CE][Hive] :: Storage load took:7.69 seconds, recovery stamp:2362
+20:27:08   entity: 14350, building: 0
+20:27:08   ignored: 36
+20:27:08   pathgraph's: 286
+20:27:08 [CE][Hive] :: Initializing ... 
+20:27:08 [CE][InitializeMap] :: initialized: 0
+20:27:08 [CE][Hive] :: Initializing spawners ... 
+20:27:08 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:16000, Total in Map: 13839 at 0 (sec)
+20:27:08   tests:0, repeats:0 fails:0, overtime:0
+20:27:08 !!! [CE][DE] DynamicEvent "StaticCamper" does not have position 'player', so it needs configured positions.
+20:27:08 !!!!!! [CE][DE] DynamicEvent "StaticCamper" setup is invalid, event will be disabled.
+20:27:08 [CE][AnimalRespawner] (PRICrab) :: !!! Missing AI Template "HerdCrab" for DE: "AnimalCrab"
+20:27:08 [CE][DynEvent] :: 50 types
+20:27:08 [00] AmbientFacehugger
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [01] AmbientXenoAliens
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [02] AmbientBear
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [03] AmbientPolarbear
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [04] AmbientCow
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [05] AmbientDeer
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [06] AmbientGoat
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [07] AmbientPig
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [08] AmbientRoeDeer
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [09] AmbientSheep
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [10] AmbientWildBoar
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [11] AnimalWolf
+20:27:08   Primary Spawner: "Animal", active: yes, repeat: 1
+20:27:08 [12] AnimalArcticWolf
+20:27:08   Primary Spawner: "Animal", active: yes, repeat: 1
+20:27:08 [13] AmbientCrocodile
+20:27:08   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:27:08 [14] InfectedAlien
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [15] InfectedQueen
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [16] InfectedSilentHill
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [17] InfectedArmy
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [18] InfectedArmyHard
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [19] InfectedArmyHardJMC
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [20] InfectedArmyHardJMCWinter
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [21] InfectedCity
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [22] InfectedFirefighter
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [23] InfectedIndustrial
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [24] InfectedMedic
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [25] InfectedNBC
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [26] InfectedNBCYellow
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [27] InfectedPolice
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [28] InfectedPoliceHard
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [29] InfectedPrisoner
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [30] InfectedReligious
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [31] InfectedSolitude
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [32] InfectedVillage
+20:27:08   Primary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [33] ItemPlanks
+20:27:08   Primary Spawner: "Item", active: yes, repeat: 1
+20:27:08 [34] Loot
+20:27:08   Primary Spawner: "Loot", active: yes, repeat: 2
+20:27:08 [35] StaticCamper
+20:27:08   Primary Spawner: "Static", active: no, repeat: 1
+20:27:08   Secondary Spawner: "Infected", active: no, repeat: 1
+20:27:08 [36] StaticHeliCrash
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08   Secondary Spawner: "Infected", active: yes, repeat: 1
+20:27:08 [37] TrajectoryApple
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [38] TrajectoryConiferous
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [39] TrajectoryDeciduous
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [40] TrajectoryHumus
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [41] TrajectoryPear
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [42] TrajectoryPlum
+20:27:08   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:27:08 [43] StaticVanPinkies
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [44] StaticVanAmbulance
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [45] StaticSkeletonEventspawn
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [46] StaticPlantFernA
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [47] StaticPlantFernB
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [48] StaticPlantFernC
+20:27:08   Primary Spawner: "Static", active: yes, repeat: 1
+20:27:08 [49] AnimalCrab
+20:27:08   Primary Spawner: "Animal", active: yes, repeat: 1
+20:27:08 [CE][Hive] :: Initializing of spawners done.
+20:27:08 [CE][Hive] :: Init sequence finished.
+20:27:55 [IdleMode] Entering IN - save processed
+20:28:16 Average server FPS: 1023.50 (measured interval: 150 s)
+20:30:46 Average server FPS: 10707.87 (measured interval: 150 s)
+20:33:16 Average server FPS: 10419.11 (measured interval: 150 s)
+20:35:46 Average server FPS: 12085.22 (measured interval: 150 s)
+20:38:16 Average server FPS: 12560.76 (measured interval: 150 s)
+20:40:46 Average server FPS: 10893.01 (measured interval: 150 s)
+20:43:16 Average server FPS: 9439.41 (measured interval: 150 s)
+20:45:46 Average server FPS: 7709.13 (measured interval: 150 s)
+20:48:16 Average server FPS: 11412.19 (measured interval: 150 s)
+20:50:46 Average server FPS: 11539.75 (measured interval: 150 s)
+20:53:16 Average server FPS: 8654.59 (measured interval: 150 s)
+20:55:46 Average server FPS: 12372.63 (measured interval: 150 s)
+20:58:16 Average server FPS: 13485.81 (measured interval: 150 s)
+21:00:46 Average server FPS: 13669.61 (measured interval: 150 s)
+21:03:16 Average server FPS: 12893.13 (measured interval: 150 s)
+21:05:46 Average server FPS: 14463.93 (measured interval: 150 s)
+21:08:16 Average server FPS: 15255.39 (measured interval: 150 s)
+21:10:46 Average server FPS: 15123.31 (measured interval: 150 s)
+21:13:16 Average server FPS: 15323.55 (measured interval: 150 s)
+21:15:46 Average server FPS: 15144.07 (measured interval: 150 s)
+21:18:16 Average server FPS: 14723.18 (measured interval: 150 s)
+21:20:46 Average server FPS: 13869.95 (measured interval: 150 s)
+21:23:16 Average server FPS: 13895.60 (measured interval: 150 s)
+21:25:46 Average server FPS: 13888.91 (measured interval: 150 s)
+21:28:16 Average server FPS: 13809.13 (measured interval: 150 s)
+21:30:46 Average server FPS: 13673.65 (measured interval: 150 s)
+21:33:16 Average server FPS: 13077.10 (measured interval: 150 s)
+21:35:46 Average server FPS: 13324.31 (measured interval: 150 s)
+21:38:16 Average server FPS: 13364.62 (measured interval: 150 s)
+21:40:46 Average server FPS: 13393.37 (measured interval: 150 s)
+21:43:16 Average server FPS: 13233.18 (measured interval: 150 s)
+21:45:46 Average server FPS: 13546.47 (measured interval: 150 s)
+21:48:16 Average server FPS: 13564.03 (measured interval: 150 s)
+21:50:46 Average server FPS: 13525.14 (measured interval: 150 s)
+21:53:16 Average server FPS: 13786.37 (measured interval: 150 s)
+21:55:46 Average server FPS: 13717.73 (measured interval: 150 s)
+21:58:16 Average server FPS: 13841.77 (measured interval: 150 s)
+22:00:46 Average server FPS: 13932.00 (measured interval: 150 s)
+22:03:16 Average server FPS: 13569.80 (measured interval: 150 s)
+22:05:46 Average server FPS: 13675.02 (measured interval: 150 s)
+22:08:16 Average server FPS: 13975.65 (measured interval: 150 s)
+22:10:46 Average server FPS: 13853.19 (measured interval: 150 s)
+22:13:16 Average server FPS: 13860.41 (measured interval: 150 s)
+22:15:46 Average server FPS: 13728.09 (measured interval: 150 s)
+22:18:16 Average server FPS: 13772.08 (measured interval: 150 s)
+22:20:46 Average server FPS: 13797.35 (measured interval: 150 s)
+22:23:16 Average server FPS: 13704.79 (measured interval: 150 s)
+22:25:46 Average server FPS: 13681.11 (measured interval: 150 s)
+22:28:16 Average server FPS: 13705.68 (measured interval: 150 s)
+22:30:46 Average server FPS: 13733.73 (measured interval: 150 s)
+22:33:16 Average server FPS: 13608.64 (measured interval: 150 s)
+22:35:46 Average server FPS: 13427.69 (measured interval: 150 s)
+22:38:16 Average server FPS: 12873.93 (measured interval: 150 s)
+22:40:46 Average server FPS: 12857.59 (measured interval: 150 s)
+22:43:16 Average server FPS: 13471.52 (measured interval: 150 s)
+22:45:46 Average server FPS: 14171.11 (measured interval: 150 s)
+22:48:16 Average server FPS: 14145.35 (measured interval: 150 s)
+22:50:46 Average server FPS: 14205.98 (measured interval: 150 s)
+22:53:16 Average server FPS: 14128.77 (measured interval: 150 s)
+22:55:46 Average server FPS: 13993.42 (measured interval: 150 s)
+22:58:16 Average server FPS: 14044.73 (measured interval: 150 s)
+23:00:46 Average server FPS: 14609.25 (measured interval: 150 s)
+23:03:16 Average server FPS: 14428.86 (measured interval: 150 s)
+23:05:46 Average server FPS: 13621.17 (measured interval: 150 s)
+23:08:16 Average server FPS: 13739.03 (measured interval: 150 s)
+23:10:46 Average server FPS: 13765.20 (measured interval: 150 s)
+23:13:16 Average server FPS: 14320.11 (measured interval: 150 s)
+23:15:46 Average server FPS: 14401.06 (measured interval: 150 s)
+23:18:16 Average server FPS: 15061.33 (measured interval: 150 s)
+23:20:46 Average server FPS: 15055.55 (measured interval: 150 s)
+23:23:16 Average server FPS: 15142.18 (measured interval: 150 s)
+23:25:46 Average server FPS: 14986.65 (measured interval: 150 s)
+23:28:16 Average server FPS: 14899.70 (measured interval: 150 s)
+23:30:46 Average server FPS: 14316.47 (measured interval: 150 s)
+23:33:16 Average server FPS: 14705.93 (measured interval: 150 s)
+23:35:46 Average server FPS: 14689.38 (measured interval: 150 s)
+23:38:16 Average server FPS: 14519.61 (measured interval: 150 s)
+23:40:46 Average server FPS: 14622.58 (measured interval: 150 s)
+23:43:16 Average server FPS: 14747.09 (measured interval: 150 s)
+23:45:46 Average server FPS: 15227.01 (measured interval: 150 s)
+23:48:16 Average server FPS: 15111.15 (measured interval: 150 s)
+23:50:46 Average server FPS: 14939.90 (measured interval: 150 s)
+23:53:16 Average server FPS: 14773.11 (measured interval: 150 s)
+23:55:46 Average server FPS: 14630.46 (measured interval: 150 s)
+23:58:16 Average server FPS: 14498.28 (measured interval: 150 s)
+ 0:00:46 Average server FPS: 14447.25 (measured interval: 150 s)
+ 0:03:16 Average server FPS: 14435.04 (measured interval: 150 s)
+ 0:05:46 Average server FPS: 14321.79 (measured interval: 150 s)
+ 0:08:16 Average server FPS: 14277.66 (measured interval: 150 s)
+ 0:10:46 Average server FPS: 14623.44 (measured interval: 150 s)
+ 0:13:16 Average server FPS: 14303.44 (measured interval: 150 s)
+ 0:15:46 Average server FPS: 14811.13 (measured interval: 150 s)
+ 0:18:16 Average server FPS: 14551.10 (measured interval: 150 s)
+ 0:20:46 Average server FPS: 14348.91 (measured interval: 150 s)
+ 0:23:16 Average server FPS: 14751.75 (measured interval: 150 s)
+ 0:25:46 Average server FPS: 13789.41 (measured interval: 150 s)
+ 0:28:16 Average server FPS: 14663.54 (measured interval: 150 s)
+ 0:30:46 Average server FPS: 14709.21 (measured interval: 150 s)
+ 0:33:16 Average server FPS: 14716.69 (measured interval: 150 s)
+ 0:35:46 Average server FPS: 14716.55 (measured interval: 150 s)
+ 0:38:16 Average server FPS: 14098.45 (measured interval: 150 s)
+ 0:40:46 Average server FPS: 13861.51 (measured interval: 150 s)
+ 0:43:16 Average server FPS: 12051.08 (measured interval: 150 s)
+ 0:45:46 Average server FPS: 11945.32 (measured interval: 150 s)
+ 0:48:16 Average server FPS: 12516.38 (measured interval: 150 s)
+ 0:50:46 Average server FPS: 12511.79 (measured interval: 150 s)
+ 0:53:16 Average server FPS: 12236.05 (measured interval: 150 s)
+ 0:55:46 Average server FPS: 12529.22 (measured interval: 150 s)
+ 0:58:16 Average server FPS: 12819.21 (measured interval: 150 s)
+ 1:00:46 Average server FPS: 12500.21 (measured interval: 150 s)
+ 1:03:16 Average server FPS: 12828.99 (measured interval: 150 s)
+ 1:05:46 Average server FPS: 12229.43 (measured interval: 150 s)
+ 1:08:16 Average server FPS: 12969.96 (measured interval: 150 s)
+ 1:10:46 Average server FPS: 13728.71 (measured interval: 150 s)
+ 1:13:16 Average server FPS: 13756.59 (measured interval: 150 s)
+ 1:15:46 Average server FPS: 13877.42 (measured interval: 150 s)
+ 1:18:16 Average server FPS: 13906.09 (measured interval: 150 s)
+ 1:20:46 Average server FPS: 14055.67 (measured interval: 150 s)
+ 1:23:16 Average server FPS: 14064.83 (measured interval: 150 s)
+ 1:25:46 Average server FPS: 14045.33 (measured interval: 150 s)
+ 1:28:16 Average server FPS: 14088.13 (measured interval: 150 s)
+ 1:30:46 Average server FPS: 14082.59 (measured interval: 150 s)
+ 1:33:16 Average server FPS: 13859.31 (measured interval: 150 s)
+ 1:35:46 Average server FPS: 13968.87 (measured interval: 150 s)
+ 1:38:16 Average server FPS: 14116.83 (measured interval: 150 s)
+ 1:40:46 Average server FPS: 13728.01 (measured interval: 150 s)
+ 1:43:16 Average server FPS: 13631.14 (measured interval: 150 s)
+ 1:45:46 Average server FPS: 13780.89 (measured interval: 150 s)
+ 1:48:16 Average server FPS: 13620.37 (measured interval: 150 s)
+ 1:50:46 Average server FPS: 13560.04 (measured interval: 150 s)
+ 1:53:16 Average server FPS: 13661.74 (measured interval: 150 s)
+ 1:55:46 Average server FPS: 13877.07 (measured interval: 150 s)
+ 1:58:16 Average server FPS: 14426.08 (measured interval: 150 s)
+ 2:00:46 Average server FPS: 14000.48 (measured interval: 150 s)
+ 2:03:16 Average server FPS: 14402.45 (measured interval: 150 s)
+ 2:05:46 Average server FPS: 14261.17 (measured interval: 150 s)
+ 2:08:16 Average server FPS: 14254.28 (measured interval: 150 s)
+ 2:10:46 Average server FPS: 13843.97 (measured interval: 150 s)
+ 2:13:16 Average server FPS: 13991.69 (measured interval: 150 s)
+ 2:15:46 Average server FPS: 13643.15 (measured interval: 150 s)
+ 2:18:16 Average server FPS: 14060.95 (measured interval: 150 s)
+ 2:20:46 Average server FPS: 13936.20 (measured interval: 150 s)
+ 2:23:16 Average server FPS: 14033.58 (measured interval: 150 s)
+ 2:25:46 Average server FPS: 14671.10 (measured interval: 150 s)
+ 2:28:16 Average server FPS: 14717.27 (measured interval: 150 s)
+ 2:30:46 Average server FPS: 14683.35 (measured interval: 150 s)
+ 2:33:16 Average server FPS: 14623.83 (measured interval: 150 s)
+ 2:35:46 Average server FPS: 14608.20 (measured interval: 150 s)
+ 2:38:16 Average server FPS: 14031.54 (measured interval: 150 s)
+ 2:40:46 Average server FPS: 13985.83 (measured interval: 150 s)
+ 2:43:16 Average server FPS: 13860.97 (measured interval: 150 s)
+ 2:45:46 Average server FPS: 13960.12 (measured interval: 150 s)
+ 2:48:16 Average server FPS: 13956.04 (measured interval: 150 s)
+ 2:50:46 Average server FPS: 13914.45 (measured interval: 150 s)
+ 2:53:16 Average server FPS: 14000.00 (measured interval: 150 s)
+ 2:55:46 Average server FPS: 13818.47 (measured interval: 150 s)
+ 2:58:16 Average server FPS: 13797.17 (measured interval: 150 s)
+ 3:00:46 Average server FPS: 14259.40 (measured interval: 150 s)
+ 3:03:16 Average server FPS: 14880.23 (measured interval: 150 s)
+ 3:05:46 Average server FPS: 12974.21 (measured interval: 150 s)
+ 3:08:16 Average server FPS: 13936.46 (measured interval: 150 s)
+ 3:10:46 Average server FPS: 13878.63 (measured interval: 150 s)
+ 3:13:16 Average server FPS: 13888.47 (measured interval: 150 s)
+ 3:15:46 Average server FPS: 13965.84 (measured interval: 150 s)
+ 3:18:16 Average server FPS: 14029.41 (measured interval: 150 s)
+ 3:20:46 Average server FPS: 14041.78 (measured interval: 150 s)
+ 3:23:16 Average server FPS: 13692.91 (measured interval: 150 s)
+ 3:25:46 Average server FPS: 13885.16 (measured interval: 150 s)
+ 3:28:16 Average server FPS: 13673.49 (measured interval: 150 s)
+ 3:30:46 Average server FPS: 13877.51 (measured interval: 150 s)
+ 3:33:16 Average server FPS: 14001.15 (measured interval: 150 s)
+ 3:35:46 Average server FPS: 13793.31 (measured interval: 150 s)
+ 3:38:16 Average server FPS: 14120.68 (measured interval: 150 s)
+ 3:40:46 Average server FPS: 14071.19 (measured interval: 150 s)
+ 3:43:16 Average server FPS: 13991.57 (measured interval: 150 s)
+ 3:45:46 Average server FPS: 13998.10 (measured interval: 150 s)
+ 3:48:16 Average server FPS: 13988.07 (measured interval: 150 s)
+ 3:50:46 Average server FPS: 13614.24 (measured interval: 150 s)
+ 3:53:16 Average server FPS: 13637.11 (measured interval: 150 s)
+ 3:55:46 Average server FPS: 13699.42 (measured interval: 150 s)
+ 3:58:16 Average server FPS: 13778.10 (measured interval: 150 s)
+ 4:00:46 Average server FPS: 13578.45 (measured interval: 150 s)
+ 4:03:16 Average server FPS: 13799.19 (measured interval: 150 s)
+ 4:05:46 Average server FPS: 13745.47 (measured interval: 150 s)
+ 4:08:16 Average server FPS: 13823.81 (measured interval: 150 s)
+ 4:10:46 Average server FPS: 13817.61 (measured interval: 150 s)
+ 4:13:16 Average server FPS: 14001.08 (measured interval: 150 s)
+ 4:15:46 Average server FPS: 13967.27 (measured interval: 150 s)
+ 4:18:16 Average server FPS: 13758.16 (measured interval: 150 s)
+ 4:20:46 Average server FPS: 13637.04 (measured interval: 150 s)
+ 4:23:16 Average server FPS: 13679.18 (measured interval: 150 s)
+ 4:25:46 Average server FPS: 13790.19 (measured interval: 150 s)
+ 4:28:16 Average server FPS: 13944.07 (measured interval: 150 s)
+ 4:30:46 Average server FPS: 13819.88 (measured interval: 150 s)
+ 4:33:16 Average server FPS: 13761.05 (measured interval: 150 s)
+ 4:35:46 Average server FPS: 14155.87 (measured interval: 150 s)
+ 4:38:16 Average server FPS: 14479.81 (measured interval: 150 s)
+ 4:40:46 Average server FPS: 14367.49 (measured interval: 150 s)
+ 4:43:16 Average server FPS: 14984.72 (measured interval: 150 s)
+ 4:45:46 Average server FPS: 12315.31 (measured interval: 150 s)
+ 4:48:16 Average server FPS: 11907.54 (measured interval: 150 s)
+ 4:50:46 Average server FPS: 12496.59 (measured interval: 150 s)
+ 4:53:16 Average server FPS: 12573.69 (measured interval: 150 s)
+ 4:55:46 Average server FPS: 11908.55 (measured interval: 150 s)
+ 4:58:16 Average server FPS: 12489.67 (measured interval: 150 s)
+ 5:00:46 Average server FPS: 12530.99 (measured interval: 150 s)
+ 5:03:16 Average server FPS: 12721.21 (measured interval: 150 s)
+ 5:05:46 Average server FPS: 13904.19 (measured interval: 150 s)
+ 5:08:16 Average server FPS: 12726.35 (measured interval: 150 s)
+ 5:10:46 Average server FPS: 13714.36 (measured interval: 150 s)
+ 5:13:16 Average server FPS: 14708.02 (measured interval: 150 s)
+ 5:15:46 Average server FPS: 14436.11 (measured interval: 150 s)
+ 5:18:16 Average server FPS: 13707.60 (measured interval: 150 s)
+ 5:20:46 Average server FPS: 14055.99 (measured interval: 150 s)
+ 5:23:16 Average server FPS: 13969.85 (measured interval: 150 s)
+ 5:25:46 Average server FPS: 13782.95 (measured interval: 150 s)
+ 5:28:16 Average server FPS: 13681.73 (measured interval: 150 s)
+ 5:30:46 Average server FPS: 13883.94 (measured interval: 150 s)
+ 5:33:16 Average server FPS: 13874.17 (measured interval: 150 s)
+ 5:35:46 Average server FPS: 13651.64 (measured interval: 150 s)
+ 5:38:16 Average server FPS: 13366.49 (measured interval: 150 s)
+ 5:40:46 Average server FPS: 13329.01 (measured interval: 150 s)
+ 5:43:16 Average server FPS: 13616.17 (measured interval: 150 s)
+ 5:45:46 Average server FPS: 13580.82 (measured interval: 150 s)
+ 5:48:16 Average server FPS: 13161.81 (measured interval: 150 s)
+ 5:50:46 Average server FPS: 13190.45 (measured interval: 150 s)
+ 5:53:16 Average server FPS: 13181.84 (measured interval: 150 s)
+ 5:55:46 Average server FPS: 13141.45 (measured interval: 150 s)
+ 5:58:16 Average server FPS: 13254.23 (measured interval: 150 s)
+ 6:00:46 Average server FPS: 13241.57 (measured interval: 150 s)
+ 6:03:16 Average server FPS: 13282.55 (measured interval: 150 s)
+ 6:05:46 Average server FPS: 13328.00 (measured interval: 150 s)
+ 6:08:16 Average server FPS: 13454.57 (measured interval: 150 s)
+ 6:10:46 Average server FPS: 13437.49 (measured interval: 150 s)
+ 6:13:16 Average server FPS: 13433.74 (measured interval: 150 s)
+ 6:15:46 Average server FPS: 13405.85 (measured interval: 150 s)
+ 6:18:16 Average server FPS: 13435.39 (measured interval: 150 s)
+ 6:20:46 Average server FPS: 13431.83 (measured interval: 150 s)
+ 6:23:16 Average server FPS: 13431.97 (measured interval: 150 s)
+ 6:25:46 Average server FPS: 13376.15 (measured interval: 150 s)
+ 6:28:16 Average server FPS: 13471.98 (measured interval: 150 s)
+ 6:30:46 Average server FPS: 13399.43 (measured interval: 150 s)
+ 6:33:16 Average server FPS: 13416.51 (measured interval: 150 s)
+ 6:35:46 Average server FPS: 13373.09 (measured interval: 150 s)
+ 6:38:16 Average server FPS: 13420.11 (measured interval: 150 s)
+ 6:40:46 Average server FPS: 13421.14 (measured interval: 150 s)
+ 6:43:16 Average server FPS: 13432.71 (measured interval: 150 s)
+ 6:45:46 Average server FPS: 13380.78 (measured interval: 150 s)
+ 6:48:16 Average server FPS: 13440.03 (measured interval: 150 s)
+ 6:50:46 Average server FPS: 13445.51 (measured interval: 150 s)
+ 6:53:16 Average server FPS: 13434.62 (measured interval: 150 s)
+ 6:55:46 Average server FPS: 13207.45 (measured interval: 150 s)
+ 6:58:16 Average server FPS: 13242.80 (measured interval: 150 s)
+ 7:00:46 Average server FPS: 13330.29 (measured interval: 150 s)
+ 7:03:16 Average server FPS: 13401.87 (measured interval: 150 s)
+ 7:05:46 Average server FPS: 13321.91 (measured interval: 150 s)
+ 7:08:16 Average server FPS: 13220.75 (measured interval: 150 s)
+ 7:10:46 Average server FPS: 13233.95 (measured interval: 150 s)
+ 7:13:16 Average server FPS: 13436.15 (measured interval: 150 s)
+ 7:15:46 Average server FPS: 14100.87 (measured interval: 150 s)
+ 7:18:16 Average server FPS: 14114.89 (measured interval: 150 s)
+ 7:20:46 Average server FPS: 14115.05 (measured interval: 150 s)
+ 7:23:16 Average server FPS: 14136.43 (measured interval: 150 s)
+ 7:25:46 Average server FPS: 14054.05 (measured interval: 150 s)
+ 7:28:16 Average server FPS: 13549.07 (measured interval: 150 s)
+ 7:30:46 Average server FPS: 13591.91 (measured interval: 150 s)
+ 7:33:16 Average server FPS: 13585.19 (measured interval: 150 s)
+ 7:35:46 Average server FPS: 13554.85 (measured interval: 150 s)
+ 7:38:16 Average server FPS: 13570.20 (measured interval: 150 s)
+ 7:40:46 Average server FPS: 13599.13 (measured interval: 150 s)
+ 7:43:16 Average server FPS: 13991.02 (measured interval: 150 s)
+ 7:45:46 Average server FPS: 14067.90 (measured interval: 150 s)
+ 7:48:16 Average server FPS: 14102.07 (measured interval: 150 s)
+ 7:50:46 Average server FPS: 14113.51 (measured interval: 150 s)
+ 7:53:16 Average server FPS: 15024.36 (measured interval: 150 s)
+ 7:55:46 Average server FPS: 13490.87 (measured interval: 150 s)
+ 7:58:16 Average server FPS: 13345.21 (measured interval: 150 s)
+ 8:00:46 Average server FPS: 13342.62 (measured interval: 150 s)
+ 8:03:16 Average server FPS: 13275.45 (measured interval: 150 s)
+ 8:05:46 Average server FPS: 13135.33 (measured interval: 150 s)
+ 8:08:16 Average server FPS: 13298.64 (measured interval: 150 s)
+ 8:10:46 Average server FPS: 13510.03 (measured interval: 150 s)
+ 8:13:16 Ave

@@ -1,0 +1,405 @@
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Initialisation
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Creating Containers: 4
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <1150.067017, -32.961678, 14017.041992>
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <2247.318359, -34.582836, 14611.929688>
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <11080.357422, 9.150000, 2281.134766>
+11-14 20:26:07 | Server | Debug | n/a | n/a | n/a | [TrackedDivingLootContainer] Added new container at <13890.471680, -35.429993, 9326.860352>
+11-14 20:28:49 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.4702) 0 -> 0
+11-14 20:29:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (17.567) overcast: 0.124008
+11-14 20:29:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (17.567) 0
+11-14 20:31:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.7697) 0 -> 0
+11-14 20:32:27 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (17.834) 0
+11-14 20:34:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.0692) 0 -> 0
+11-14 20:37:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.3687) 0 -> 0
+11-14 20:40:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.6682) 0 -> 0
+11-14 20:43:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (19.4331) 0 -> 0
+11-14 20:46:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.6311) 0 -> 0
+11-14 20:49:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.8291) 0 -> 0
+11-14 20:52:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.0271) 0 -> 0
+11-14 20:55:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (0.225131) 0 -> 0
+11-14 20:58:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (1.33344) overcast: 0.296118
+11-14 20:58:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (1.33344) 0
+11-14 20:58:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.4231) 0 -> 0
+11-14 21:01:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (2.62106) 0 -> 0
+11-14 21:02:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (3.08302) 0
+11-14 21:04:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.81903) 0 -> 0
+11-14 21:07:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.017) 0 -> 0
+11-14 21:10:44 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.59485) 0 -> 0
+11-14 21:13:44 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.89434) 0 -> 0
+11-14 21:16:44 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.19383) 0 -> 0
+11-14 21:19:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.49332) 0 -> 0
+11-14 21:22:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.79282) 0 -> 0
+11-14 21:22:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (6.81211) overcast: 0.173113
+11-14 21:22:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (6.81211) 0
+11-14 21:25:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.09231) 0 -> 0
+11-14 21:28:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.3918) 0 -> 0
+11-14 21:31:42 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.69129) 0 -> 0
+11-14 21:33:23 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (7.85869) 0.0994698
+11-14 21:34:42 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (7.99078) 0
+11-14 21:35:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (8.09792) overcast: 0.667248
+11-14 21:35:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (8.09792) 0.34673
+11-14 21:35:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (8.11417) 0.399182
+11-14 21:37:27 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (8.2659) 0.115516
+11-14 21:39:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (8.44097) 0.346251
+11-14 21:40:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (8.54601) 0.1962
+11-14 21:41:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (8.64938) 0.371697
+11-14 21:43:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.84281) 0.0615925 -> 0
+11-14 21:46:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.1423) 0 -> 0
+11-14 21:47:24 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (9.26086) overcast: 0.555879
+11-14 21:47:24 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (9.26086) 0
+11-14 21:49:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.44179) 0 -> 0
+11-14 21:52:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.74128) 0 -> 0
+11-14 21:55:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.0408) 0 -> 0
+11-14 21:58:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.3403) 0 -> 0
+11-14 22:01:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.6398) 0 -> 0
+11-14 22:03:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (10.9055) 0.000157538
+11-14 22:04:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.9392) 0 -> 0
+11-14 22:07:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.2387) 0 -> 0
+11-14 22:10:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.5382) 0 -> 0
+11-14 22:13:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.8377) 0 -> 0
+11-14 22:14:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (11.9459) overcast: 0.0973876
+11-14 22:14:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (11.9459) 0
+11-14 22:16:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.1372) 0 -> 0
+11-14 22:19:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.4367) 0 -> 0
+11-14 22:22:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.7362) 0 -> 0
+11-14 22:25:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (13.0357) 0
+11-14 22:28:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (13.4179) 0 -> 0.880459
+11-14 22:30:38 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (13.5847) 0.880459 -> 0.975494
+11-14 22:31:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (13.693) 0.975494 -> 0.822248
+11-14 22:33:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (13.8298) 0.823908 -> 0.955712
+11-14 22:34:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (13.9523) 0
+11-14 22:34:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.0149) 0.955712 -> 0.897342
+11-14 22:36:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.1866) 0.897342 -> 0.846864
+11-14 22:37:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (14.2334) overcast: 0.922663
+11-14 22:37:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (14.2334) 0.882282
+11-14 22:38:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.35) 0.846864 -> 0.998236
+11-14 22:39:25 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.4634) 0.996894 -> 0.908042
+11-14 22:40:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.5851) 0.909827 -> 0.979022
+11-14 22:42:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.7552) 0.976746 -> 0.831935
+11-14 22:44:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (14.9403) 0.831935 -> 0.929582
+11-14 22:45:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.1137) 0.929582 -> 0.87875
+11-14 22:47:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.2237) 0.87875 -> 0.874984
+11-14 22:48:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.4088) 0.874984 -> 0.916062
+11-14 22:49:42 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (15.4902) overcast: 0.96768
+11-14 22:49:42 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (15.4902) 0.895356
+11-14 22:50:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.5855) 0.916062 -> 0.896243
+11-14 22:51:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.7039) 0.896243 -> 0.996612
+11-14 22:52:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.8039) 0.996416 -> 0.816114
+11-14 22:54:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (15.9457) 0.816114 -> 0.962139
+11-14 22:55:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.1007) 0.960308 -> 0.922947
+11-14 22:56:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.2141) 0.923811 -> 0.845375
+11-14 22:58:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.3542) 0.845375 -> 0.917478
+11-14 22:59:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.4559) 0.917478 -> 0.967144
+11-14 23:01:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.6326) 0.967144 -> 0.918253
+11-14 23:02:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.7994) 0.919432 -> 0.900113
+11-14 23:04:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (16.9761) 0.900469 -> 0.889883
+11-14 23:04:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (16.9992) 0
+11-14 23:05:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (17.0934) overcast: 0.889969
+11-14 23:05:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (17.0934) 0.892085
+11-14 23:06:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (17.1378) 0.889883 -> 0.893942
+11-14 23:07:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.2729) 0.893942
+11-14 23:09:26 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.4647) 0.633341
+11-14 23:12:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.7989) 0
+11-14 23:14:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.974) 0.300339 -> 0
+11-14 23:16:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (18.2051) overcast: 0.455791
+11-14 23:16:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (18.2051) 0
+11-14 23:17:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.2735) 0 -> 0
+11-14 23:20:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.573) 0 -> 0
+11-14 23:23:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (19.1777) 0 -> 0
+11-14 23:26:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.3756) 0 -> 0
+11-14 23:29:30 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.5736) 0 -> 0
+11-14 23:32:30 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (22.7716) 0 -> 0
+11-14 23:35:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (23.8718) 0
+11-14 23:35:30 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.9695) 0 -> 0
+11-14 23:38:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.16751) 0 -> 0
+11-14 23:41:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (2.259) overcast: 0.0029664
+11-14 23:41:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (2.259) 0
+11-14 23:41:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (2.36548) 0 -> 0
+11-14 23:44:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.56344) 0 -> 0
+11-14 23:47:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (4.76141) 0 -> 0
+11-14 23:50:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.55599) 0 -> 0
+11-14 23:53:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (5.85548) 0
+11-14 23:57:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.23275) 0
+11-14 23:58:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.39616) 0.0635151
+11-15 00:00:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.51287) 0.251253
+11-15 00:01:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (6.70463) 0.13467
+11-15 00:02:24 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (6.74944) overcast: 0.641649
+11-15 00:02:24 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (6.74944) 0.177539
+11-15 00:03:23 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.84802) 0.272054 -> 0
+11-15 00:05:43 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (7.08091) 0
+11-15 00:06:23 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.14751) 0 -> 0
+11-15 00:09:23 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.447) 0 -> 0
+11-15 00:12:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.74649) 0 -> 0
+11-15 00:15:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.04599) 0 -> 0
+11-15 00:18:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.34548) 0 -> 0
+11-15 00:21:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.64497) 0 -> 0
+11-15 00:24:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.94446) 0 -> 0
+11-15 00:27:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.24395) 0 -> 0
+11-15 00:28:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (9.327) overcast: 0.0936338
+11-15 00:28:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (9.327) 0
+11-15 00:30:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.54344) 0 -> 0
+11-15 00:33:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.84294) 0 -> 0
+11-15 00:36:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (10.1277) 0
+11-15 00:36:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.1424) 0 -> 0
+11-15 00:39:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.4419) 0 -> 0
+11-15 00:42:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.7414) 0 -> 0
+11-15 00:45:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.0409) 0 -> 0
+11-15 00:48:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.3404) 0 -> 0
+11-15 00:51:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.6399) 0 -> 0
+11-15 00:54:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.9394) 0 -> 0
+11-15 00:57:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.2389) 0 -> 0
+11-15 00:57:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (12.3073) overcast: 0.144465
+11-15 00:57:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (12.3073) 0
+11-15 01:00:18 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.5384) 0 -> 0
+11-15 01:03:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.8379) 0 -> 0
+11-15 01:06:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.1373) 0 -> 0
+11-15 01:06:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (13.1746) 0
+11-15 01:09:17 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.4368) 0 -> 0
+11-15 01:09:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (13.4651) overcast: 0.311597
+11-15 01:09:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (13.4651) 0
+11-15 01:12:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.7363) 0 -> 0
+11-15 01:15:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.0358) 0 -> 0
+11-15 01:18:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.3353) 0 -> 0
+11-15 01:21:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.6348) 0 -> 0
+11-15 01:24:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.9343) 0 -> 0
+11-15 01:27:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.2338) 0 -> 0
+11-15 01:30:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.5333) 0 -> 0
+11-15 01:33:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.8328) 0 -> 0
+11-15 01:35:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (16.087) overcast: 0.165038
+11-15 01:35:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (16.087) 0
+11-15 01:36:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.1323) 0 -> 0
+11-15 01:37:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (16.2214) 0
+11-15 01:39:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.4318) 0 -> 0
+11-15 01:42:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.7312) 0 -> 0
+11-15 01:45:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.0307) 0 -> 0
+11-15 01:48:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.3302) 0 -> 0
+11-15 01:51:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.6297) 0 -> 0
+11-15 01:54:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.9292) 0 -> 0
+11-15 01:57:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.2287) 0 -> 0
+11-15 02:00:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.5282) 0 -> 0
+11-15 02:03:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (19.1248) 0 -> 0
+11-15 02:05:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (19.9058) overcast: 0.0813196
+11-15 02:05:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (19.9058) 0
+11-15 02:06:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.3228) 0 -> 0
+11-15 02:07:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (20.8868) 0
+11-15 02:09:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.5208) 0 -> 0
+11-15 02:12:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (22.7187) 0 -> 0
+11-15 02:15:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.9167) 0 -> 0
+11-15 02:18:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.11466) 0 -> 0
+11-15 02:20:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (2.22985) overcast: 0.48012
+11-15 02:20:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (2.22985) 0
+11-15 02:21:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (2.31263) 0 -> 0
+11-15 02:24:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.5106) 0 -> 0
+11-15 02:27:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (4.70856) 0 -> 0
+11-15 02:30:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.56775) 0 -> 0
+11-15 02:33:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.86725) 0 -> 0
+11-15 02:36:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.16674) 0 -> 0
+11-15 02:38:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (6.35965) 0
+11-15 02:39:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.46623) 0 -> 0
+11-15 02:42:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.76572) 0 -> 0
+11-15 02:45:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.06521) 0 -> 0
+11-15 02:45:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (7.07087) overcast: 0.174532
+11-15 02:45:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (7.07087) 0
+11-15 02:48:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.36471) 0 -> 0
+11-15 02:51:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.6642) 0 -> 0
+11-15 02:54:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.96369) 0 -> 0
+11-15 02:57:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.26318) 0 -> 0
+11-15 03:00:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.56267) 0 -> 0
+11-15 03:03:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.86216) 0 -> 0
+11-15 03:06:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.16166) 0 -> 0
+11-15 03:08:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (9.40647) 0
+11-15 03:09:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.46115) 0 -> 0
+11-15 03:09:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (9.47608) overcast: 0.149803
+11-15 03:09:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (9.47608) 0
+11-15 03:12:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.76064) 0 -> 0
+11-15 03:15:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.0601) 0 -> 0
+11-15 03:18:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.3596) 0 -> 0
+11-15 03:21:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.6591) 0 -> 0
+11-15 03:24:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.9586) 0 -> 0
+11-15 03:27:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.2581) 0 -> 0
+11-15 03:30:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.5576) 0 -> 0
+11-15 03:33:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.8571) 0 -> 0
+11-15 03:36:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.1566) 0 -> 0
+11-15 03:36:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (12.2072) overcast: 0.0944395
+11-15 03:36:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (12.2072) 0
+11-15 03:39:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (12.4533) 0
+11-15 03:39:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.4561) 0 -> 0
+11-15 03:42:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.7556) 0 -> 0
+11-15 03:45:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.055) 0 -> 0
+11-15 03:48:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.3545) 0 -> 0
+11-15 03:51:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.654) 0 -> 0
+11-15 03:54:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.9535) 0 -> 0
+11-15 03:57:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.253) 0 -> 0
+11-15 03:59:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.5525) 0 -> 0
+11-15 04:02:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.852) 0 -> 0
+11-15 04:03:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (14.865) overcast: 0.0983856
+11-15 04:03:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (14.865) 0
+11-15 04:05:59 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.1515) 0 -> 0
+11-15 04:08:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.451) 0 -> 0
+11-15 04:09:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (15.5001) 0
+11-15 04:11:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.7505) 0 -> 0
+11-15 04:14:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.05) 0
+11-15 04:16:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.1617) 0.690957
+11-15 04:17:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.3434) 0.328159
+11-15 04:18:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.4485) 0.729533
+11-15 04:19:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.5485) 0.202777
+11-15 04:23:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.8679) 0
+11-15 04:23:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (16.9119) overcast: 0.769106
+11-15 04:23:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (16.9119) 0.0888471
+11-15 04:24:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.0363) 0.339811
+11-15 04:26:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.178) 0.613515
+11-15 04:27:40 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.3197) 0.39577
+11-15 04:29:36 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (17.5131) 0.275753 -> 0.93043
+11-15 04:31:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (17.6565) 0.93043 -> 0.867214
+11-15 04:32:46 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (17.8299) 0.868406 -> 0.943602
+11-15 04:34:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (17.9633) 0.943602 -> 0.809143
+11-15 04:35:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (18.1101) 0.809143 -> 0.91677
+11-15 04:36:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (18.2318) 0.91677 -> 0.928428
+11-15 04:38:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (18.3585) 0.928428 -> 0.866884
+11-15 04:39:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (18.4639) overcast: 0.941011
+11-15 04:39:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (18.4639) 0.88321
+11-15 04:39:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (18.5069) 0.866884 -> 0.986273
+11-15 04:39:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (18.5469) 0
+11-15 04:41:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (18.7484) 0.985492
+11-15 04:42:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (19.2753) 0.642036
+11-15 04:44:30 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (19.9556) 0.177667
+11-15 04:46:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.6225) 0.232829 -> 0
+11-15 04:49:10 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.8205) 0 -> 0
+11-15 04:52:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (23.0185) 0 -> 0
+11-15 04:55:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (0.216419) 0 -> 0
+11-15 04:58:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.41439) 0 -> 0
+11-15 05:01:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (2.61235) 0 -> 0
+11-15 05:04:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.81032) 0 -> 0
+11-15 05:06:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (4.64545) overcast: 0.203262
+11-15 05:06:14 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (4.64545) 0
+11-15 05:07:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.00829) 0 -> 0
+11-15 05:10:08 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.66763) 0 -> 0
+11-15 05:10:24 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (5.69494) 0
+11-15 05:13:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.96712) 0 -> 0
+11-15 05:16:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.26661) 0 -> 0
+11-15 05:19:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.5661) 0 -> 0
+11-15 05:22:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.86559) 0 -> 0
+11-15 05:25:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.16509) 0 -> 0
+11-15 05:28:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.46458) 0 -> 0
+11-15 05:29:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (7.55466) overcast: 0.211393
+11-15 05:29:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (7.55466) 0
+11-15 05:31:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.76407) 0 -> 0
+11-15 05:34:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.06356) 0 -> 0
+11-15 05:37:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.36305) 0 -> 0
+11-15 05:40:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.66255) 0 -> 0
+11-15 05:40:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (8.74176) 0.0994699
+11-15 05:43:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (8.96204) 0 -> 0
+11-15 05:45:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (9.20223) overcast: 0.506342
+11-15 05:45:28 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (9.20223) 0
+11-15 05:46:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.26153) 0 -> 0
+11-15 05:49:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (9.56102) 0 -> 0
+11-15 05:52:03 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (9.86051) 0
+11-15 05:53:42 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.0256) 0.271181
+11-15 05:54:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.1523) 0.043202
+11-15 05:56:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.2774) 0.156124
+11-15 05:58:00 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.4541) 0.151546
+11-15 05:58:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (10.4915) overcast: 0.71822
+11-15 05:58:22 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (10.4915) 0.20899
+11-15 05:59:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (10.6125) 0.395136
+11-15 06:00:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (10.7476) 0.168197 -> 0
+11-15 06:03:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.047) 0 -> 0
+11-15 06:06:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.3465) 0 -> 0
+11-15 06:09:55 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.646) 0 -> 0
+11-15 06:11:20 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (11.7886) 0.000157589
+11-15 06:12:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.9455) 0 -> 0
+11-15 06:15:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.245) 0 -> 0
+11-15 06:18:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.5445) 0 -> 0
+11-15 06:21:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.844) 0 -> 0
+11-15 06:24:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.1435) 0 -> 0
+11-15 06:24:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (13.1475) overcast: 0.156569
+11-15 06:24:56 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (13.1475) 0
+11-15 06:27:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.443) 0 -> 0
+11-15 06:30:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (13.7425) 0 -> 0
+11-15 06:33:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.042) 0 -> 0
+11-15 06:36:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.3415) 0 -> 0
+11-15 06:39:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.6409) 0 -> 0
+11-15 06:41:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (14.8354) 0
+11-15 06:42:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (14.9404) 0 -> 0
+11-15 06:45:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.2399) 0 -> 0
+11-15 06:48:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.5394) 0 -> 0
+11-15 06:50:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (15.6654) overcast: 0.259102
+11-15 06:50:06 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (15.6654) 0
+11-15 06:51:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (15.8389) 0 -> 0
+11-15 06:54:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (16.1384) 0 -> 0
+11-15 06:57:50 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.4379) 0
+11-15 06:59:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.5796) 0.153896
+11-15 07:00:27 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.6997) 0.643178
+11-15 07:02:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (16.8731) 0.638716
+11-15 07:03:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.0398) 0.662577
+11-15 07:04:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (17.0672) overcast: 0.827189
+11-15 07:04:07 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (17.0672) 0.60086
+11-15 07:05:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.1699) 0.368521
+11-15 07:06:39 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.3199) 0.359087
+11-15 07:07:40 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (17.4216) 0.26088
+11-15 07:09:38 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.6184) 0.238914 -> 0
+11-15 07:12:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (17.8822) 0
+11-15 07:12:38 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (17.9179) 0 -> 0
+11-15 07:15:37 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.2174) 0 -> 0
+11-15 07:18:37 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (18.5169) 0 -> 0
+11-15 07:21:37 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (19.3328) 0 -> 0
+11-15 07:24:37 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (20.5308) 0 -> 0
+11-15 07:27:36 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (21.7287) 0 -> 0
+11-15 07:29:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (22.6737) overcast: 0.0830958
+11-15 07:29:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (22.6737) 0
+11-15 07:30:36 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (22.9267) 0 -> 0
+11-15 07:33:36 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (0.124661) 0 -> 0
+11-15 07:36:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (1.32263) 0 -> 0
+11-15 07:39:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (2.52059) 0 -> 0
+11-15 07:42:35 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (3.71856) 0 -> 0
+11-15 07:42:45 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (3.78362) 0
+11-15 07:45:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (4.91653) 0 -> 0
+11-15 07:48:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.66964) 0 -> 0
+11-15 07:51:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (5.96913) 0 -> 0
+11-15 07:54:34 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.26862) 0 -> 0
+11-15 07:57:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.56811) 0 -> 0
+11-15 07:57:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (6.59861) overcast: 0.1403
+11-15 07:57:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (6.59861) 0
+11-15 08:00:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (6.86761) 0 -> 0
+11-15 08:03:33 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (7.1671) 0 -> 0
+11-15 08:06:32 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (7.46659) 0
+11-15 08:08:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (7.66168) 0.267687
+11-15 08:09:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (7.79173) 0.29255
+11-15 08:11:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (7.93179) 0.75838 -> 0.969604
+11-15 08:12:37 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.07518) 0.96864 -> 0.935459
+11-15 08:13:13 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (8.13375) 0.0994704
+11-15 08:14:01 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.21357) 0.935459 -> 0.89548
+11-15 08:15:29 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.3603) 0.89548 -> 0.902243
+11-15 08:16:54 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.50203) 0.900556 -> 0.962328
+11-15 08:18:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.63708) 0.962328 -> 0.982403
+11-15 08:19:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (8.79905) overcast: 0.916318
+11-15 08:19:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (8.79905) 0.979708
+11-15 08:20:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.8155) 0.981473 -> 0.926273
+11-15 08:21:04 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (8.91887) 0.926273 -> 0.950945
+11-15 08:22:48 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.09228) 0.950945 -> 0.843123
+11-15 08:24:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.23734) 0.843123 -> 0.842537
+11-15 08:25:52 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.39908) 0.843123 -> 0.939634
+11-15 08:27:02 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.51579) 0.939126 -> 0.910337
+11-15 08:28:05 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.62083) 0.910337 -> 0.934239
+11-15 08:29:16 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.73921) 0.934239 -> 0.912143
+11-15 08:30:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.84758) 0.912143 -> 0.840529
+11-15 08:31:30 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (9.96262) 0.842191 -> 0.839296
+11-15 08:33:11 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.131) 0.842178 -> 0.950359
+11-15 08:33:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (10.2009) overcast: 0.873067
+11-15 08:33:53 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (10.2009) 0.892149
+11-15 08:34:41 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.2811) 0.949515 -> 0.816236
+11-15 08:36:09 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.4278) 0.818318 -> 0.893771
+11-15 08:37:21 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.5479) 0.893771 -> 0.863564
+11-15 08:38:58 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.7096) 0.864843 -> 0.988006
+11-15 08:40:57 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (10.908) 0.985489 -> 0.912131
+11-15 08:42:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.0331) 0.913926 -> 0.905649
+11-15 08:43:23 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.1515) 0.905649 -> 0.812061
+11-15 08:43:41 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Fog:: (11.1806) 0.000158631
+11-15 08:45:12 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.3332) 0.814638 -> 0.938658
+11-15 08:46:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast:: (11.4372) overcast: 0.914808
+11-15 08:46:15 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Overcast::Rain:: (11.4372) 0.892745
+11-15 08:46:51 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceStorm:: (11.4983) 0.93861 -> 0.923356
+11-15 08:48:19 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (11.645) 0.923356
+11-15 08:49:47 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain:: (11.7917) 0.440264
+11-15 08:51:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (11.9651) 0.0222663 -> 0
+11-15 08:54:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.2646) 0 -> 0
+11-15 08:57:31 | Server | Debug | n/a | n/a | n/a | Deerisle::Weather::Rain::ForceEnd:: (12.5641) 0 -> 0

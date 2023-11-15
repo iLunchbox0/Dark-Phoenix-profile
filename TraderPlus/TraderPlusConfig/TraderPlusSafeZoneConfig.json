@@ -1,0 +1,33 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 1,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "YOU HAVE ENTERED Groots Hill SAFEZONE!",
+    "MsgExitZone": "YOU HAVE LEFT Groots Hill SAFEZONE!",
+    "MsgOnLeavingZone": "LEAVING ZONE IN:",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Groots Hill Trader",
+            "X": 7555.0,
+            "Y": 4585.0,
+            "Radius": 70.0,
+            "Countdown": 15
+        }
+    ],
+    "CleanUpTimer": 300,
+    "WhitelistEntities": [],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561199355321754",
+        "76561199262519197"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}

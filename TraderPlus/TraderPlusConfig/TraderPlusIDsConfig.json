@@ -1,0 +1,334 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Medical Supplies",
+                "Medications"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Hunting Knives",
+                "Hunting Accessories",
+                "Pelts",
+                "Skulls",
+                "Meat",
+                "Cooking & Hunting Supplies",
+                "Utilities"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Tools",
+                "Pokemon Card Boxes",
+                "Electronics",
+                "Fire & Lights",
+                "ZomPod Music Player",
+                "Tom MacDonald Songs",
+                "Kegan Grimm Songs",
+                "Plastic Giant Songs",
+                "Hostile Bond Songs",
+                "Pierce the Sky Songs",
+                "DragonForce Songs",
+                "Misc Songs",
+                "Hardware Supplies",
+                "DC Seachests",
+                "Dark Phoenix Barrels",
+                "Seeds & Lime"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Flags",
+                "Building Items",
+                "Building Tools",
+                "RaGs Base Items Cosmetic",
+                "RaGs Base Items Lights and Power",
+                "RaGs Base Items Music",
+                "RaGs Base Items Repairs",
+                "RaGs Base Items Growing",
+                "RaGs Base Items Lockers",
+                "RaGs Base Items Safes",
+                "RaGs Base Items Storages",
+                "RaGs Base Items Usables",
+                "RaGs Base Items Coffee",
+                "DCs Murals",
+                "Elon's Custom Wallpapers",
+                "Elon's Custom Murals",
+                "Gothic Murals",
+                "BBP Item Pack",
+                "Etc Base Items",
+                "Elon's Custom Floorings",
+                "Elon's Custom Plasters",
+                "Base Additions",
+                "Respawns"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Mortys Build Your Own",
+                "Morty Pistols",
+                "Morty Subs",
+                "Morty Shotguns",
+                "Morty Bolt Rifles",
+                "Morty Rifles",
+                "Morty Buttstocks",
+                "Morty Handgaurds",
+                "Morty Optics",
+                "Morty Magazines Empty",
+                "Morty Ammo",
+                "Ammunition",
+                "Vanilla Melee",
+                "Vanilla Sidearms",
+                "Vanilla Rifles",
+                "Vanilla Shotguns",
+                "Vanilla Submachine Guns",
+                "Vanilla Assault Rifles",
+                "Vanilla Sniper Rifles",
+                "Vanilla Grenades",
+                "Vanilla Magazines",
+                "Vanilla Handguards",
+                "Vanilla Buttstocks",
+                "Vanilla Optics",
+                "Vanilla Compensators",
+                "Vanilla Bayonets",
+                "Vanilla Flashlights"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Glasses",
+                "Armbands",
+                "Gloves",
+                "Hats & Caps",
+                "Helmets",
+                "Masks",
+                "Shirts",
+                "Hoodies & Sweater",
+                "Vests",
+                "Jackets & Coats",
+                "Skirts & Dresses",
+                "Pants",
+                "Drippy Sneakers",
+                "Comfy Drips",
+                "Drippy Socks and Sandals",
+                "Shoes & Boots",
+                "Holster & Pouches",
+                "Bags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "Paragon Armor",
+                "Paragon Helmets",
+                "Paragon Backpacks",
+                "Paragon Gear",
+                "Paragon Cloths",
+                "Paragon Attachments",
+                "Paragon Tools",
+                "Patches",
+                "Belt",
+                "Weapon Slings",
+                "DC Full Digital Camo Sets",
+                "Full Digital Camo Sets Continued"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Morty Black Market Pistols",
+                "Morty Black Market Semi Auto Rifles",
+                "Morty Black Market Auto Rifles",
+                "Morty Black Market Sniper Rifles",
+                "Mortys Rare Gold Weapons",
+                "Suppressors",
+                "Black Market Paragon Weapons",
+                "Black Market Paragon Armor Vests",
+                "Black Market Paragon Helmets",
+                "Black Market Paragon Bags",
+                "Black Market DC Camos",
+                "Black Market Paragon Mags Empty",
+				"Black Market Paragon Suppressors",
+                "Black Market Paragon Ammo",
+				"Black Market Paragon Attachments"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 8,
+            "Categories": [
+                "Pokemon",
+                "Collectables",
+                "Gems",
+                "Gems Anvil and Tumbler"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 9,
+            "Categories": [
+                "Cigs and Useables",
+                "Bricks",
+                "Crafting"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 10,
+            "Categories": [
+                "Raid Tools"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 11,
+            "Categories": [
+                "Dog Tags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 12,
+            "Categories": [
+				"Starter Vehicle",
+                "Vanilla Cars",
+                "Buggy",
+                "Audi RS6",
+                "BMW",
+                "BMW X5",
+                "Chevrolet Camaro",
+                "Chevrolet Corvette",
+                "Conqueror",
+                "Cougar",
+                "DozorB",
+                "EGER",
+                "Fennek",
+                "G65",
+                "GAZ 69",
+                "GAZ 66",
+                "GAZ 71",
+                "GAZ Tigr",
+                "Gelenvagen",
+                "HAMMER H1",
+                "HEMTT",
+                "Jeep Wrangler",
+                "Kamaz 4350",
+                "Kamaz Typhoon",
+                "Kraz 6322",
+                "Kraz Fiona",
+                "Land Cruiser",
+                "LUAZ",
+                "M35 a2",
+                "MAZ 509",
+                "MBw 140",
+                "Motor Home",
+                "MUSTANG",
+                "Nissan Warrior",
+                "Niva Pickup",
+                "Novator",
+                "Offroad Range Rover",
+                "Opel Astra",
+                "Oshkosh",
+                "PAZ",
+                "PAZ BANDIT",
+                "PAZ Prison",
+                "PONTIAC",
+                "Range Rover",
+                "RAPTOR",
+                "ROVER",
+                "SCOUT",
+                "SUV",
+                "TLC 200",
+                "Toyota Hilux",
+                "Traktor",
+                "Typhoon",
+                "UAZ 2315",
+                "UAZ 469",
+                "UAZ 469 Offroad",
+                "URAL 4320",
+                "VAZ 2108",
+                "VAZ 2109",
+                "Raptor 6x6",
+                "YAR 87",
+                "ZIL 130",
+                "BRDM",
+                "BTR",
+                "AZLK",
+                "BMW",
+                "Camper",
+                "Cars",
+                "Trucks",
+                "SUV",
+                "Boats"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 13,
+            "Categories": [
+                "RFFS Helis",
+                "Sibnic Helis",
+                "Donation Heli",
+                "Helicopter Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 14,
+            "Categories": [
+                "Vanilla Vehicle Parts",
+                "Parts",
+                "Boat Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 15,
+            "Categories": [
+                "LastReaper123",
+                "Incog",
+                "DOPE",
+                "NightStar RP Male",
+                "DeathCalls4U",
+                "Slavs",
+                "Radar2",
+                "Radar3",
+                "Twister",
+                "M A S H",
+                "NARCOS"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}

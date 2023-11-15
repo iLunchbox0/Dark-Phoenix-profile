@@ -1,0 +1,393 @@
+{
+    "Version": "2.5",
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 1,
+    "HideGarageBtn": 1,
+    "HideLicenceBtn": 1,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 0,
+    "IsReceiptTraderOnly": 0,
+    "IsReceiptSaveLock": 0,
+    "IsReceiptSaveAttachment": 1,
+    "IsReceiptSaveCargo": 0,
+    "LockPickChance": 0.5,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "PhoenixCoin1M",
+            "Value": 1000000
+        },
+        {
+            "ClassName": "PhoenixCoin100K",
+            "Value": 100000
+        },
+        {
+            "ClassName": "PhoenixCoin50K",
+            "Value": 50000
+        },
+        {
+            "ClassName": "PhoenixCoin20K",
+            "Value": 20000
+        },
+        {
+            "ClassName": "PhoenixCoin10K",
+            "Value": 10000
+        },
+        {
+            "ClassName": "PhoenixCoin1K",
+            "Value": 1000
+        },
+        {
+            "ClassName": "PhoenixCoin100",
+            "Value": 100
+        },
+        {
+            "ClassName": "PhoenixCoin50",
+            "Value": 50
+        },
+        {
+            "ClassName": "PhoenixCoin25",
+            "Value": 25
+        },
+        {
+            "ClassName": "PhoenixCoin10",
+            "Value": 10
+        },
+        {
+            "ClassName": "PhoenixCoin5",
+            "Value": 5
+        },
+        {
+            "ClassName": "PhoenixCoin1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Marie",
+            "Role": "Medical Supplies",
+            "Position": [
+                7509.42,
+                87.6861,
+                4589.48
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "BVM_VendingMachine_hunting",
+            "GivenName": "Kevin",
+            "Role": "Hunting Supplies",
+            "Position": [
+                7549.02,
+                88.1656,
+                4619.46
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 2,
+            "Name": "BVM_VendingMachine_miscellaneous",
+            "GivenName": "Bob",
+            "Role": "Misc",
+            "Position": [
+                7504.17,
+                88.0615,
+                4612.17
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_building",
+            "GivenName": "John",
+            "Role": "Base Building",
+            "Position": [
+                7518.29,
+                87.67,
+                4618.72
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 4,
+            "Name": "BVM_VendingMachine_modded_weapons",
+            "GivenName": "Pablo",
+            "Role": "Weapon Trader",
+            "Position": [
+                7531.17,
+                87.6932,
+                4593.74
+            ],
+            "Orientation": [
+                -34.5485,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 5,
+            "Name": "BVM_VendingMachine_clothing",
+            "GivenName": "Pablo",
+            "Role": "Clothing Trader",
+            "Position": [
+                7505.96,
+                87.6727,
+                4603.69
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 6,
+            "Name": "BVM_VendingMachine_military_clothing",
+            "GivenName": "Pablo",
+            "Role": "Military Clothing",
+            "Position": [
+                7503.32,
+                87.6723,
+                4607.29
+            ],
+            "Orientation": [
+                54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "iLunchbox",
+            "Role": "Black Market Weapons & Armor",
+            "Position": [
+                4754.54,
+                3.38613,
+                7134.63
+            ],
+            "Orientation": [
+                200.943,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+            "ILunchbox_gloves",
+            "ILunchbox_boots",
+            "DP_6B43_ILunchbox",
+            "ILunchbox_Jacket",
+            "ILunchbox_CargoPants",
+            "ILunchbox_Scifi_H"
+            ]
+        },
+        {
+            "Id": 8,
+            "Name": "SurvivorF_Helga",
+            "GivenName": "Fluffy",
+            "Role": "Collectables",
+            "Position": [
+                4757.95,
+                3.3861,
+                7126.71
+            ],
+            "Orientation": [
+                295.973,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+            "NewFluffy_Jacket",
+            "NewFluffy_CargoPants",
+            "NewFluffy_Scifi_H",
+            "DP_6B43_NewFluffy",
+            "NewFluffy_boots",
+            "NewFluffy_gloves"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "DCM8ION",
+            "Role": "Drugs",
+            "Position": [
+                4749.69,
+                3.38611,
+                7134.16
+            ],
+            "Orientation": [
+                149.563,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+            "DCM8ION_gloves",
+            "DCM8ION_Scifi_H",
+            "DCM8ION_boots",
+            "DCM8ION_BalaclavaMask",
+            "DP_6B43_DCM8ION",
+            "DCM8ION_Jacket",
+            "DCM8ION_CargoPants"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Alxjmrk",
+            "Role": "Raiding",
+            "Position": [
+                4749.79,
+                3.38612,
+                7123.98
+            ],
+            "Orientation": [
+                30.5559,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+            "Alex_Founder_CargoPants",
+            "Alex_Founder_Gloves",
+            "Alex_Founder_Jacket",
+            "Alex_Founder_boots",
+            "Alex_Founder_Helmet"
+            ]
+        },
+        {
+            "Id": 11,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Christopher",
+            "Role": "Dog Tags",
+            "Position": [
+                4754.49,
+                3.3861,
+                7123.562
+            ],
+            "Orientation": [
+                343.562,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+            "Death_Helmet",
+            "Death_gloves",
+            "Death_boots",
+            "Death_BalaclavaMask",
+            "Death_GorkaPants",
+            "Death_GorkaEJacket",
+            "DP_6B43_Death"
+            ]
+        },
+        {
+            "Id": 12,
+            "Name": "BVM_VendingMachine_vehicles",
+            "GivenName": "Pablo",
+            "Role": "Vehicle Trader",
+            "Position": [
+                7562.08,
+                87.6911,
+                4606.17
+            ],
+            "Orientation": [
+                143.999,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 13,
+            "Name": "BVM_VendingMachine_helicopters",
+            "GivenName": "Pablo",
+            "Role": "Aircraft",
+            "Position": [
+                7559.69,
+                87.67,
+                4604.55
+            ],
+            "Orientation": [
+                147.197,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 14,
+            "Name": "BVM_VendingMachine_vehicle_parts",
+            "GivenName": "Pablo",
+            "Role": "Car Parts",
+            "Position": [
+                7557.29,
+                87.67,
+                4602.99
+            ],
+            "Orientation": [
+                147.284,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 15,
+            "Name": "BVM_VendingMachine_donator",
+            "GivenName": "Pablo",
+            "Role": "Donation Gear",
+            "Position": [
+                7519.44,
+                87.8066,
+                4591.9
+            ],
+            "Orientation": [
+                -35.2887,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": [
+    ]
+}
