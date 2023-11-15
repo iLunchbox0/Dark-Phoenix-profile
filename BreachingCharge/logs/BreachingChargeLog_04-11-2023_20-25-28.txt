@@ -1,0 +1,4 @@
+[04/11/2023-20:59:17]	[PLACED]	[04/11/2023-20:59:17]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <4244.504395, 21.299879, 7265.036621>, Target: BBP_SGate_T2 | Player: PaperEater [76561198016795067]
+[04/11/2023-20:59:17]	[ARMED]		[04/11/2023-20:59:17]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <4244.504395, 21.299879, 7265.036621>, Target: BBP_SGate_T2 | Player: PaperEater [76561198016795067]
+[04/11/2023-21:02:18]	[EXPLODED]	[04/11/2023-21:02:18]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <4243.237793, 21.454538, 7265.832031>, Target: BBP_SGate_T2, Damage done: 2 | Player: PaperEater [76561198016795067]
+[04/11/2023-21:02:18]	[DESTROYED]	[04/11/2023-21:02:18]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <4243.237793, 21.454538, 7265.832031>, Target: BBP_SGate_T2 | Player: PaperEater [76561198016795067]

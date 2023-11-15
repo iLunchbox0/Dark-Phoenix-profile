@@ -1,0 +1,4 @@
+[05/11/2023-00:32:20]	[PLACED]	[05/11/2023-00:32:20]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <6985.318848, 9.842119, 5421.886719>, Target: BBP_SGate_T1 | Player: Abshooter13TTV [76561199491613404]
+[05/11/2023-00:32:20]	[ARMED]		[05/11/2023-00:32:20]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <6985.318848, 9.842119, 5421.886719>, Target: BBP_SGate_T1 | Player: Abshooter13TTV [76561199491613404]
+[05/11/2023-00:35:21]	[EXPLODED]	[05/11/2023-00:35:21]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <6984.309082, 10.714833, 5421.353516>, Target: BBP_SGate_T1, Damage done: 2 | Player: Abshooter13TTV [76561199491613404]
+[05/11/2023-00:35:21]	[DESTROYED]	[05/11/2023-00:35:21]	A target was destroyed!	 | HDSN_BreachingChargeHeavy, Position: <6984.309082, 10.714833, 5421.353516>, Target: BBP_SGate_T1 | Player: Abshooter13TTV [76561199491613404]

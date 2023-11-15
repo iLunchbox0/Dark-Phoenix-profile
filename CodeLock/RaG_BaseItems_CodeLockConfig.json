@@ -1,0 +1,10 @@
+{
+    "RaidTimeInSeconds": 600.0,
+    "CanAttach": "true",
+    "CanRaid": "true",
+    "DeleteLockOnRaid": "true",
+    "ToolDamageOnRaid": 5000,
+    "RaidTools": [
+        "DP_Hacksaw"
+    ]
+}

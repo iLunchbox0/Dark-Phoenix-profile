@@ -1,0 +1,72 @@
+{
+    "m_DNAConfig_Mob_System": [
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "Animal_DH_Wolf_M_150lb"
+        },
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "Animal_DH_Wolf_F_100lb"
+        },
+        {
+            "dna_DefaultMob": "bear",
+            "dna_MobType": "Animal_DH_Bear_550lb"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_FireDemon"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Syther"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Wendigo"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Wendigo_Hairy"
+        },
+		{
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Gargoyville_1"
+        },
+		{
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Gharlog"
+        },
+		{
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Gorgund"
+        },
+		{
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Lechen_Hairy"
+        },
+		{
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "PITSTOP_Monsters_Werebear_Brown"
+        },
+        {
+            "dna_DefaultMob": "bossYellow",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossGreen",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossBlue",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossPurple",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossRed",
+            "dna_MobType": ""
+        }
+    ]
+}
